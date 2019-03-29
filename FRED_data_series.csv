@@ -1,0 +1,490 @@
+File                                    ,Title, Units, Frequency, Seasonal Adjustment, Last Updated,Category
+CAPUTLN2121S,Capacity Utilization: Coal mining, % of Capacity, M, SA, 2018-12-14,out
+CAPUTLG3342S,Capacity Utilization: Communications equipment, % of Capacity, M, SA, 2018-12-14,out
+CAPUTLG3341S,Capacity Utilization: Computer and peripheral equipment, % of Capacity, M, SA, 2018-12-14,out
+CAPUTLHITEK2S,"Capacity Utilization: Computers, communications equipment, and semiconductors", % of Capacity, M, SA, 2018-12-14,out
+CAPUTLB5610CS,Capacity Utilization: Crude processing, % of Capacity, M, SA, 2018-12-14,out
+CAPUTLGMFDS,Capacity Utilization: Durable manufacturing, % of Capacity, M, SA, 2018-12-14,out
+CAPUTLG3364T9S,Capacity Utilization: Durable Manufacturing: Aerospace and miscellaneous transportation equipment, % of Capacity, M, SA, 2018-12-14,out
+CAPUTLG33611S,Capacity Utilization: Durable Manufacturing: Automobile and light duty motor vehicle, % of Capacity, M, SA, 2018-12-14,out
+CAPUTLG334S,Capacity Utilization: Durable Manufacturing: Computer and electronic product, % of Capacity, M, SA, 2018-12-14,out
+CAPUTLG335S,"Capacity Utilization: Durable Manufacturing: Electrical equipment, appliance, and component", % of Capacity, M, SA, 2018-12-14,out
+CAPUTLG332S,Capacity Utilization: Durable Manufacturing: Fabricated metal product, % of Capacity, M, SA, 2018-12-14,out
+CAPUTLG337S,Capacity Utilization: Durable Manufacturing: Furniture and related product, % of Capacity, M, SA, 2018-12-14,out
+CAPUTLG3311A2S,Capacity Utilization: Durable Manufacturing: Iron and steel products, % of Capacity, M, SA, 2018-12-14,out
+CAPUTLG333S,Capacity Utilization: Durable Manufacturing: Machinery, % of Capacity, M, SA, 2018-12-14,out
+CAPUTLG339S,Capacity Utilization: Durable Manufacturing: Miscellaneous, % of Capacity, M, SA, 2018-12-14,out
+CAPUTLG3361T3S,Capacity Utilization: Durable Manufacturing: Motor vehicles and parts, % of Capacity, M, SA, 2018-12-14,out
+CAPUTLG327S,Capacity Utilization: Durable Manufacturing: Nonmetallic mineral product, % of Capacity, M, SA, 2018-12-14,out
+CAPUTLG331S,Capacity Utilization: Durable Manufacturing: Primary metal, % of Capacity, M, SA, 2018-12-14,out
+CAPUTLG336S,Capacity Utilization: Durable Manufacturing: Transportation equipment, % of Capacity, M, SA, 2018-12-14,out
+CAPUTLG321S,Capacity Utilization: Durable Manufacturing: Wood product, % of Capacity, M, SA, 2018-12-14,out
+CAPUTLG2211A2S,Capacity Utilization: Electric and gas utilities, % of Capacity, M, SA, 2018-12-14,out
+CAPUTLG2211S,"Capacity Utilization: Electric power generation, transmission, and distribution", % of Capacity, M, SA, 2018-12-14,out
+CAPUTLB5640CS,Capacity Utilization: Finished processing, % of Capacity, M, SA, 2018-12-14,out
+MCUMFN,Capacity Utilization: Manufacturing (NAICS), % of Capacity, M, SA, 2018-12-14,out
+CUMFNS,Capacity Utilization: Manufacturing (SIC), % of Capacity, M, SA, 2018-12-14,out
+CAPUTLX4HTK2S,"Capacity Utilization: Manufacturing excluding computers, communications equipment, and semiconductors", % of Capacity, M, SA, 2018-12-14,out
+CAPUTLX4HTMVS,Capacity Utilization: Manufacturing excluding hi-tech and motor vehicles and parts, % of Capacity, M, SA, 2018-12-14,out
+CAPUTLG2122S,Capacity Utilization: Metal ore mining, % of Capacity, M, SA, 2018-12-14,out
+CAPUTLG21S,Capacity Utilization: Mining, % of Capacity, M, SA, 2018-12-14,out
+CAPUTLG212S,Capacity Utilization: Mining (except oil and gas), % of Capacity, M, SA, 2018-12-14,out
+CAPUTLG2212S,Capacity Utilization: Natural gas distribution, % of Capacity, M, SA, 2018-12-14,out
+CAPUTLGMFNS,Capacity Utilization: Nondurable manufacturing, % of Capacity, M, SA, 2018-12-14,out
+CAPUTLG315S,Capacity Utilization: Nondurable Manufacturing: Apparel, % of Capacity, M, SA, 2018-12-14,out
+CAPUTLG315A6S,Capacity Utilization: Nondurable Manufacturing: Apparel and leather goods, % of Capacity, M, SA, 2018-12-14,out
+CAPUTLN32522S,Capacity Utilization: Nondurable Manufacturing: Artificial and synthetic fibers and filaments, % of Capacity, M, SA, 2018-12-14,out
+CAPUTLG312S,Capacity Utilization: Nondurable Manufacturing: Beverage and tobacco product, % of Capacity, M, SA, 2018-12-14,out
+CAPUTLG325S,Capacity Utilization: Nondurable Manufacturing: Chemical, % of Capacity, M, SA, 2018-12-14,out
+CAPUTLG311S,Capacity Utilization: Nondurable Manufacturing: Food, % of Capacity, M, SA, 2018-12-14,out
+CAPUTLG311A2S,"Capacity Utilization: Nondurable Manufacturing: Food, beverage, and tobacco", % of Capacity, M, SA, 2018-12-14,out
+CAPUTLG316S,Capacity Utilization: Nondurable Manufacturing: Leather and allied product, % of Capacity, M, SA, 2018-12-14,out
+CAPUTLGMFOS,Capacity Utilization: Nondurable Manufacturing: Other manufacturing, % of Capacity, M, SA, 2018-12-14,out
+CAPUTLG322S,Capacity Utilization: Nondurable Manufacturing: Paper, % of Capacity, M, SA, 2018-12-14,out
+CAPUTLG324S,Capacity Utilization: Nondurable Manufacturing: Petroleum and coal products, % of Capacity, M, SA, 2018-12-14,out
+CAPUTLG326S,Capacity Utilization: Nondurable Manufacturing: Plastics and rubber products, % of Capacity, M, SA, 2018-12-14,out
+CAPUTLN325211S,Capacity Utilization: Nondurable Manufacturing: Plastics material and resin, % of Capacity, M, SA, 2018-12-14,out
+CAPUTLG323S,Capacity Utilization: Nondurable Manufacturing: Printing and related support activities, % of Capacity, M, SA, 2018-12-14,out
+CAPUTLG325212S,Capacity Utilization: Nondurable Manufacturing: Synthetic rubber, % of Capacity, M, SA, 2018-12-14,out
+CAPUTLG313S,Capacity Utilization: Nondurable Manufacturing: Textile mills, % of Capacity, M, SA, 2018-12-14,out
+CAPUTLG314S,Capacity Utilization: Nondurable Manufacturing: Textile product mills, % of Capacity, M, SA, 2018-12-14,out
+CAPUTLG313A4S,Capacity Utilization: Nondurable Manufacturing: Textiles and products, % of Capacity, M, SA, 2018-12-14,out
+CAPUTLG2123S,Capacity Utilization: Nonmetallic mineral mining and quarrying, % of Capacity, M, SA, 2018-12-14,out
+CAPUTLG211S,Capacity Utilization: Oil and gas extraction, % of Capacity, M, SA, 2018-12-14,out
+CAPUTLB562A3CS,Capacity Utilization: Primary and semifinished processing, % of Capacity, M, SA, 2018-12-14,out
+CAPUTLG33441A1S,Capacity Utilization: Semiconductors and related equipment (DISCONTINUED), % of Capacity, M, SA, 2015-07-15,out
+CAPUTLG213S,Capacity Utilization: Support activities for mining, % of Capacity, M, SA, 2018-12-14,out
+CAPUTLX50HTKS,"Capacity Utilization: Total excluding computers, communications equipment, and semiconductors", % of Capacity, M, SA, 2018-12-14,out
+TCU,Capacity Utilization: Total Industry, % of Capacity, M, SA, 2018-12-14,out
+INDPRO,Industrial Production Index, Index 2012=100, M, SA, 2018-12-14,out
+IPBUSEQ,Industrial Production: Business Equipment, Index 2012=100, M, SA, 2018-12-14,out
+IPX52HTVS,Industrial Production: Business equipment excluding hi-tech and motor vehicles and parts, Index 2012=100, M, SA, 2018-12-14,out
+IPB54200S,Industrial Production: Business supplies, Index 2012=100, M, SA, 2018-12-14,out
+IPX5421TS,"Industrial Production: Business supplies excluding energy, motor vehicles and parts, and selected high-tech industries", Index 2012=100, M, SA, 2018-12-14,out
+IPB54220S,Industrial Production: Commercial energy products, Index 2012=100, M, SA, 2018-12-14,out
+IPB53121S,Industrial Production: Computer and other board assemblies and parts, Index 2012=100, M, SA, 2018-12-14,out
+IPHITEK2S,"Industrial Production: Computers, communications equipment, and semiconductors", Index 2012=100, M, SA, 2018-12-14,out
+IPB54100S,Industrial Production: Construction supplies, Index 2012=100, M, SA, 2018-12-14,out
+IPX5410HS,Industrial Production: Construction supplies excluding hi-tech, Index 2012=100, M, SA, 2018-12-14,out
+IPB51220S,Industrial Production: Consumer energy products, Index 2012=100, M, SA, 2018-12-14,out
+IPCONGD,Industrial Production: Consumer Goods, Index 2012=100, M, SA, 2018-12-14,out
+IPX51HVES,"Industrial Production: Consumer goods excluding hi-tech, motor vehicles and parts, and energy", Index 2012=100, M, SA, 2018-12-14,out
+IPB53110S,Industrial Production: Consumer parts, Index 2012=100, M, SA, 2018-12-14,out
+IPB5610CS,Industrial Production: Crude processing, Index 2012=100, M, SA, 2018-12-14,out
+IPB52300S,Industrial Production: Defense and space equipment, Index 2012=100, M, SA, 2018-12-14,out
+IPDCONGD,Industrial Production: Durable Consumer Goods, Index 2012=100, M, SA, 2018-12-14,out
+IPG3364S,Industrial Production: Durable Goods: Aerospace product and parts, Index 2012=100, M, SA, 2018-12-14,out
+IPG33311S,Industrial Production: Durable Goods: Agricultural implement, Index 2012=100, M, SA, 2018-12-14,out
+IPG3331S,"Industrial Production: Durable Goods: Agriculture, construction, and mining machinery", Index 2012=100, M, SA, 2018-12-14,out
+IPG336411T3S,Industrial Production: Durable Goods: Aircraft and parts, Index 2012=100, M, SA, 2018-12-14,out
+IPG32199S,Industrial Production: Durable Goods: All other wood product, Index 2012=100, M, SA, 2018-12-14,out
+IPG3313S,Industrial Production: Durable Goods: Alumina and aluminum production and processing, Index 2012=100, M, SA, 2018-12-14,out
+IPN331316S,Industrial Production: Durable Goods: Aluminum extruded product (DISCONTINUED), Index 2007=100, M, SA, 2015-07-15,out
+IPB51122S,"Industrial Production: Durable Goods: Appliances, furniture, and carpeting", Index 2012=100, M, SA, 2018-12-14,out
+IPN3323S,Industrial Production: Durable Goods: Architectural and structural metals, Index 2012=100, M, SA, 2018-12-14,out
+IPG3343S,Industrial Production: Durable Goods: Audio and video equipment, Index 2012=100, M, SA, 2018-12-14,out
+IPB51112S,Industrial Production: Durable Goods: Auto parts and allied goods, Index 2012=100, M, SA, 2018-12-14,out
+IPG336111S,Industrial Production: Durable Goods: Automobile, Index 2012=100, M, SA, 2018-12-14,out
+IPG33611S,Industrial Production: Durable Goods: Automobile and light duty motor vehicle, Index 2012=100, M, SA, 2018-12-14,out
+IPB51110S,Industrial Production: Durable Goods: Automotive products, Index 2012=100, M, SA, 2018-12-14,out
+IPB51111S,"Industrial Production: Durable Goods: Autos and trucks, consumer", Index 2012=100, M, SA, 2018-12-14,out
+IPG332991S,Industrial Production: Durable Goods: Ball and roller bearing, Index 2012=100, M, SA, 2018-12-14,out
+IPG33591S,Industrial Production: Durable Goods: Battery, Index 2012=100, M, SA, 2018-12-14,out
+IPN3311A2DS,Industrial Production: Durable Goods: Can and closure steel, Index 2012=100, M, SA, 2018-12-14,out
+IPB511222S,Industrial Production: Durable Goods: Carpeting and furniture, Index 2012=100, M, SA, 2018-12-14,out
+IPN32731S,Industrial Production: Durable Goods: Cement, Index 2012=100, M, SA, 2018-12-14,out
+IPG3273S,Industrial Production: Durable Goods: Cement and concrete product, Index 2012=100, M, SA, 2018-12-14,out
+IPG3271A9S,Industrial Production: Durable Goods: Clay and miscellaneous nonmetallic mineral products, Index 2012=100, M, SA, 2018-12-14,out
+IPG32712S,Industrial Production: Durable Goods: Clay building material and refractories, Index 2012=100, M, SA, 2018-12-14,out
+IPG3271S,Industrial Production: Durable Goods: Clay product and refractory, Index 2012=100, M, SA, 2018-12-14,out
+IPG3271A4A9S,"Industrial Production: Durable Goods: Clay, lime, gypsum, and miscellaneous nonmetallic mineral products", Index 2012=100, M, SA, 2018-12-14,out
+IPN3328S,"Industrial Production: Durable Goods: Coating, engraving, heat treating, and allied activities", Index 2012=100, M, SA, 2018-12-14,out
+IPG3311A2FS,Industrial Production: Durable Goods: Coke and products, Index 2012=100, M, SA, 2018-12-14,out
+IPG3333A9S,Industrial Production: Durable Goods: Commercial and service industry machinery and other general purpose machinery, Index 2012=100, M, SA, 2018-12-14,out
+IPN33592S,Industrial Production: Durable Goods: Communication and energy wire and cable, Index 2012=100, M, SA, 2018-12-14,out
+IPG3342S,Industrial Production: Durable Goods: Communications equipment, Index 2012=100, M, SA, 2018-12-14,out
+IPG3341S,Industrial Production: Durable Goods: Computer and peripheral equipment, Index 2012=100, M, SA, 2018-12-14,out
+IPB51121S,"Industrial Production: Durable Goods: Computers, video and audio equipment", Index 2012=100, M, SA, 2018-12-14,out
+IPN32732T9S,Industrial Production: Durable Goods: Concrete and product, Index 2012=100, M, SA, 2018-12-14,out
+IPG33312S,Industrial Production: Durable Goods: Construction machinery, Index 2012=100, M, SA, 2018-12-14,out
+IPN3311A2BS,Industrial Production: Durable Goods: Construction steel, Index 2012=100, M, SA, 2018-12-14,out
+IPN3311A2CS,Industrial Production: Durable Goods: Consumer durable steel, Index 2012=100, M, SA, 2018-12-14,out
+IPN3322S,Industrial Production: Durable Goods: Cutlery and handtool, Index 2012=100, M, SA, 2018-12-14,out
+IPG3351S,Industrial Production: Durable Goods: Electric lighting equipment, Index 2012=100, M, SA, 2018-12-14,out
+IPG3353S,Industrial Production: Durable Goods: Electrical equipment, Index 2012=100, M, SA, 2018-12-14,out
+IPG335A2S,Industrial Production: Durable Goods: Electrical equipment except appliances, Index 2012=100, M, SA, 2018-12-14,out
+IPG3336S,"Industrial Production: Durable Goods: Engine, turbine, and power transmission equipment", Index 2012=100, M, SA, 2018-12-14,out
+IPN3311A2ES,Industrial Production: Durable Goods: Equipment steel, Index 2012=100, M, SA, 2018-12-14,out
+IPG333111S,Industrial Production: Durable Goods: Farm machinery and equipment, Index 2012=100, M, SA, 2018-12-14,out
+IPN3321S,Industrial Production: Durable Goods: Forging and stamping, Index 2012=100, M, SA, 2018-12-14,out
+IPG3315S,Industrial Production: Durable Goods: Foundries, Index 2012=100, M, SA, 2018-12-14,out
+IPG3272S,Industrial Production: Durable Goods: Glass and glass product, Index 2012=100, M, SA, 2018-12-14,out
+IPN327213S,Industrial Production: Durable Goods: Glass container, Index 2012=100, M, SA, 2018-12-14,out
+IPG3325S,Industrial Production: Durable Goods: Hardware, Index 2012=100, M, SA, 2018-12-14,out
+IPG33612S,Industrial Production: Durable Goods: Heavy duty truck, Index 2012=100, M, SA, 2018-12-14,out
+IPN3371S,Industrial Production: Durable Goods: Household and institutional furniture and kitchen cabinet, Index 2012=100, M, SA, 2018-12-14,out
+IPG3352S,Industrial Production: Durable Goods: Household appliance, Index 2012=100, M, SA, 2018-12-14,out
+IPB511221S,Industrial Production: Durable Goods: Household appliances, Index 2012=100, M, SA, 2018-12-14,out
+IPG3334T6S,"Industrial Production: Durable Goods: HVAC, metalworking, and power transmission machinery", Index 2012=100, M, SA, 2018-12-14,out
+IPG3332S,Industrial Production: Durable Goods: Industrial machinery, Index 2012=100, M, SA, 2018-12-14,out
+IPG3311A2S,Industrial Production: Durable Goods: Iron and steel products, Index 2012=100, M, SA, 2018-12-14,out
+IPG336112S,Industrial Production: Durable Goods: Light truck and utility vehicle, Index 2012=100, M, SA, 2018-12-14,out
+IPG3274S,Industrial Production: Durable Goods: Lime and gypsum product, Index 2012=100, M, SA, 2018-12-14,out
+IPN1133S,Industrial Production: Durable Goods: Logging, Index 2012=100, M, SA, 2018-12-14,out
+IPG3327S,Industrial Production: Durable Goods: Machine shops, Index 2012=100, M, SA, 2018-12-14,out
+IPG33522S,Industrial Production: Durable Goods: Major appliance, Index 2012=100, M, SA, 2018-12-14,out
+IPN321991S,Industrial Production: Durable Goods: Manufactured home, Index 2012=100, M, SA, 2018-12-14,out
+IPN3391S,Industrial Production: Durable Goods: Medical equipment and supplies, Index 2012=100, M, SA, 2018-12-14,out
+IPG3335S,Industrial Production: Durable Goods: Metalworking machinery, Index 2012=100, M, SA, 2018-12-14,out
+IPG32191S,Industrial Production: Durable Goods: Millwork, Index 2012=100, M, SA, 2018-12-14,out
+IPN33313S,Industrial Production: Durable Goods: Mining and oil and gas field machinery, Index 2012=100, M, SA, 2018-12-14,out
+IPN331315A9S,Industrial Production: Durable Goods: Miscellaneous aluminum materials (DISCONTINUED), Index 2007=100, M, SA, 2015-07-15,out
+IPN3311A2ZS,Industrial Production: Durable Goods: Miscellaneous steel, Index 2012=100, M, SA, 2018-12-14,out
+IPN336213S,Industrial Production: Durable Goods: Motor home, Index 2012=100, M, SA, 2018-12-14,out
+IPG3361S,Industrial Production: Durable Goods: Motor vehicle, Index 2012=100, M, SA, 2018-12-14,out
+IPG3362S,Industrial Production: Durable Goods: Motor vehicle body and trailer, Index 2012=100, M, SA, 2018-12-14,out
+IPG3363S,Industrial Production: Durable Goods: Motor vehicle parts, Index 2012=100, M, SA, 2018-12-14,out
+IPG3345S,"Industrial Production: Durable Goods: Navigational, measuring, electromedical, and control instruments", Index 2012=100, M, SA, 2018-12-14,out
+IPG33141S,Industrial Production: Durable Goods: Nonferrous metal, Index 2012=100, M, SA, 2018-12-14,out
+IPG3314S,Industrial Production: Durable Goods: Nonferrous metal, Index 2012=100, M, SA, 2018-12-14,out
+IPG3372A9S,Industrial Production: Durable Goods: Office and other furniture, Index 2012=100, M, SA, 2018-12-14,out
+IPB51120S,Industrial Production: Durable Goods: Other durable goods, Index 2012=100, M, SA, 2018-12-14,out
+IPG33593T9S,Industrial Production: Durable Goods: Other electrical equipment, Index 2012=100, M, SA, 2018-12-14,out
+IPG3359S,Industrial Production: Durable Goods: Other electrical equipment and component, Index 2012=100, M, SA, 2018-12-14,out
+IPG3329S,Industrial Production: Durable Goods: Other fabricated metal product, Index 2012=100, M, SA, 2018-12-14,out
+IPG3279S,Industrial Production: Durable Goods: Other nonmetallic mineral product, Index 2012=100, M, SA, 2018-12-14,out
+IPN3369S,Industrial Production: Durable Goods: Other transportation equipment, Index 2012=100, M, SA, 2018-12-14,out
+IPG3219S,Industrial Production: Durable Goods: Other wood product, Index 2012=100, M, SA, 2018-12-14,out
+IPN3311A2PS,Industrial Production: Durable Goods: Pig iron, Index 2012=100, M, SA, 2018-12-14,out
+IPG3212A9S,Industrial Production: Durable Goods: Plywood and miscellaneous wood products, Index 2012=100, M, SA, 2018-12-14,out
+IPG32711S,"Industrial Production: Durable Goods: Pottery, ceramics, and plumbing fixture", Index 2012=100, M, SA, 2018-12-14,out
+IPN331312S,Industrial Production: Durable Goods: Primary aluminum production (DISCONTINUED), Index 2007=100, M, SA, 2015-07-15,out
+IPG331411S,Industrial Production: Durable Goods: Primary smelting and refining of copper (DISCONTINUED), Index 2007=100, M, SA, 2015-07-15,out
+IPN331419S,Industrial Production: Durable Goods: Primary smelting and refining of nonferrous metal (DISCONTINUED), Index 2007=100, M, SA, 2015-07-15,out
+IPG3365T9S,"Industrial Production: Durable Goods: Railroad equipment, ships and boats, and other transportation equipment", Index 2012=100, M, SA, 2018-12-14,out
+IPN3365S,Industrial Production: Durable Goods: Railroad rolling stock, Index 2012=100, M, SA, 2018-12-14,out
+IPN3311A2RS,Industrial Production: Durable Goods: Raw steel, Index 2012=100, M, SA, 2018-12-14,out
+IPG321219S,Industrial Production: Durable Goods: Reconstituted wood product, Index 2012=100, M, SA, 2018-12-14,out
+IPN3211S,Industrial Production: Durable Goods: Sawmills and wood preservation, Index 2012=100, M, SA, 2018-11-16,out
+IPN331314S,Industrial Production: Durable Goods: Secondary smelting and alloying of aluminum, Index 2012=100, M, SA, 2018-12-14,out
+IPG3344S,Industrial Production: Durable Goods: Semiconductor and other electronic component, Index 2012=100, M, SA, 2018-12-14,out
+IPG3366S,Industrial Production: Durable Goods: Ship and boat building, Index 2012=100, M, SA, 2018-12-14,out
+IPG33521S,Industrial Production: Durable Goods: Small electrical appliance, Index 2012=100, M, SA, 2018-12-14,out
+IPN3326S,Industrial Production: Durable Goods: Spring and wire product, Index 2012=100, M, SA, 2018-12-14,out
+IPG336S,Industrial Production: Durable Goods: Transportation equipment, Index 2012=100, M, SA, 2018-12-14,out
+IPG336214S,Industrial Production: Durable Goods: Travel trailer and camper, Index 2012=100, M, SA, 2018-12-14,out
+IPG336212S,Industrial Production: Durable Goods: Truck trailer, Index 2012=100, M, SA, 2018-12-14,out
+IPN321211A2S,Industrial Production: Durable Goods: Veneer and plywood, Index 2012=100, M, SA, 2017-03-17,out
+IPG3212S,"Industrial Production: Durable Goods: Veneer, plywood, and engineered wood product", Index 2012=100, M, SA, 2018-12-14,out
+IPG3334S,"Industrial Production: Durable Goods: Ventilation, heating, air-conditioning, and commercial refrigeration equipment", Index 2012=100, M, SA, 2018-12-14,out
+IPN32192S,Industrial Production: Durable Goods: Wood container and pallet, Index 2012=100, M, SA, 2018-12-14,out
+IPDMAN,Industrial Production: Durable Manufacturing (NAICS), Index 2012=100, M, SA, 2018-12-14,out
+IPX5HTK2S,"Industrial Production: Durable manufacturing excluding computers, communications equipment, and semiconductors", Index 2012=100, M, SA, 2018-12-14,out
+IPX005MVS,Industrial Production: Durable manufacturing excluding motor vehicles and parts, Index 2012=100, M, SA, 2018-12-14,out
+IPG3364T9S,Industrial Production: Durable manufacturing: Aerospace and miscellaneous transportation equipment, Index 2012=100, M, SA, 2018-12-14,out
+IPG334S,Industrial Production: Durable manufacturing: Computer and electronic product, Index 2012=100, M, SA, 2018-12-14,out
+IPG335S,"Industrial Production: Durable manufacturing: Electrical equipment, appliance, and component", Index 2012=100, M, SA, 2018-12-14,out
+IPG332S,Industrial Production: Durable manufacturing: Fabricated metal product, Index 2012=100, M, SA, 2018-12-14,out
+IPG337S,Industrial Production: Durable manufacturing: Furniture and related product, Index 2012=100, M, SA, 2018-12-14,out
+IPG333S,Industrial Production: Durable manufacturing: Machinery, Index 2012=100, M, SA, 2018-12-14,out
+IPG339S,Industrial Production: Durable manufacturing: Miscellaneous, Index 2012=100, M, SA, 2018-12-14,out
+IPG3361T3S,Industrial Production: Durable manufacturing: Motor vehicles and parts, Index 2012=100, M, SA, 2018-12-14,out
+IPG327S,Industrial Production: Durable manufacturing: Nonmetallic mineral product, Index 2012=100, M, SA, 2018-12-14,out
+IPG331S,Industrial Production: Durable manufacturing: Primary metal, Index 2012=100, M, SA, 2018-12-14,out
+IPG321S,Industrial Production: Durable manufacturing: Wood product, Index 2012=100, M, SA, 2018-12-14,out
+IPDMAT,Industrial Production: Durable Materials, Index 2012=100, M, SA, 2018-12-14,out
+IPB53131S,Industrial Production: Durable Materials: Basic metals, Index 2012=100, M, SA, 2018-12-14,out
+IPUTIL,Industrial Production: Electric and Gas Utilities, Index 2012=100, M, SA, 2018-12-14,out
+IPG2211S,"Industrial Production: Electric power generation, transmission, and distribution", Index 2012=100, M, SA, 2018-12-14,out
+IPB53300S,Industrial Production: Energy materials, Index 2012=100, M, SA, 2018-12-14,out
+IPB53320S,Industrial Production: Energy Materials: Converted fuel, Index 2012=100, M, SA, 2018-12-14,out
+IPB50089S,"Industrial Production: Energy Materials: Energy, total", Index 2012=100, M, SA, 2018-12-14,out
+IPB53310S,Industrial Production: Energy Materials: Primary energy, Index 2012=100, M, SA, 2018-12-14,out
+IPB53120S,Industrial Production: Equipment parts, Index 2012=100, M, SA, 2018-12-14,out
+IPB52000S,"Industrial Production: Equipment, total", Index 2012=100, M, SA, 2018-12-14,out
+IPG336111BS,"Industrial Production: Equipment: Automobile, business", Index 2012=100, M, SA, 2018-12-14,out
+IPG33611ES,Industrial Production: Equipment: Business light vehicles, Index 2012=100, M, SA, 2018-12-14,out
+IPG3361ES,Industrial Production: Equipment: Business vehicles, Index 2012=100, M, SA, 2018-12-14,out
+IPG336112BS,"Industrial Production: Equipment: Light trucks, business", Index 2012=100, M, SA, 2018-12-14,out
+IPB52110S,Industrial Production: Equipment: Transit equipment, Index 2012=100, M, SA, 2018-12-14,out
+IPFINAL,Industrial Production: Final Products (Market Group), Index 2012=100, M, SA, 2018-12-14,out
+IPFPNSS,Industrial Production: Final Products and Nonindustrial Supplies, Index 2012=100, M, SA, 2018-12-14,out
+IPB5640CS,Industrial Production: Finished processing, Index 2012=100, M, SA, 2018-12-14,out
+IPFUELS,Industrial Production: Fuels, Index 2012=100, M, SA, 2018-12-14,out
+IPB54210S,Industrial Production: General business supplies, Index 2012=100, M, SA, 2018-12-14,out
+IPB52130S,Industrial Production: Industrial and other equipment, Index 2012=100, M, SA, 2018-12-14,out
+IPB52131S,Industrial Production: Industrial equipment, Index 2012=100, M, SA, 2018-12-14,out
+IPB52120S,Industrial Production: Information processing and related equipment, Index 2012=100, M, SA, 2018-12-14,out
+IPMAN,Industrial Production: Manufacturing (NAICS), Index 2012=100, M, SA, 2018-12-14,out
+IPMANSICS,Industrial Production: Manufacturing (SIC), Index 2012=100, M, SA, 2018-12-14,out
+IPX4HTK2S,"Industrial Production: Manufacturing excluding computers, communications equipment, and semiconductors", Index 2012=100, M, SA, 2018-12-14,out
+IPX4HTMVS,Industrial Production: Manufacturing excluding hi-tech and motor vehicles and parts, Index 2012=100, M, SA, 2018-12-14,out
+IPXXX001S,Industrial Production: Manufacturing excluding motor vehicles and parts, Index 2012=100, M, SA, 2018-12-14,out
+IPMAT,Industrial Production: Materials, Index 2012=100, M, SA, 2018-12-14,out
+IPZ53010S,Industrial Production: Materials excluding energy materials, Index 2012=100, M, SA, 2018-12-14,out
+IPX53EHVS,"Industrial Production: Materials excluding energy, motor vehicles and parts, computers, communications equipment, and semiconductors", Index 2012=100, M, SA, 2018-12-14,out
+IPMINE,Industrial Production: Mining, Index 2012=100, M, SA, 2018-12-14,out
+IPN2121S,Industrial Production: Mining: Coal mining, Index 2012=100, M, SA, 2018-12-14,out
+IPG21223S,"Industrial Production: Mining: Copper, nickel, lead, and zinc mining", Index 2012=100, M, SA, 2018-12-14,out
+IPG211111CS,Industrial Production: Mining: Crude oil, Index 2012=100, M, SA, 2018-12-14,out
+IPG211111S,Industrial Production: Mining: Crude petroleum and natural gas extraction, Index 2012=100, M, SA, 2018-12-14,out
+IPN213111S,Industrial Production: Mining: Drilling oil and gas wells, Index 2012=100, M, SA, 2018-12-14,out
+IPG21222S,Industrial Production: Mining: Gold ore and silver ore mining, Index 2012=100, M, SA, 2018-12-14,out
+IPN21221S,Industrial Production: Mining: Iron ore mining, Index 2012=100, M, SA, 2018-12-14,out
+IPG2122S,Industrial Production: Mining: Metal ore mining, Index 2012=100, M, SA, 2018-12-14,out
+IPG212S,Industrial Production: Mining: Mining (except oil and gas), Index 2012=100, M, SA, 2018-12-14,out
+IPN211111GS,Industrial Production: Mining: Natural gas, Index 2012=100, M, SA, 2018-12-14,out
+IPG211112S,Industrial Production: Mining: Natural gas liquid extraction, Index 2012=100, M, SA, 2018-12-14,out
+IPG2123S,Industrial Production: Mining: Nonmetallic mineral mining and quarrying, Index 2012=100, M, SA, 2018-12-14,out
+IPG211S,Industrial Production: Mining: Oil and gas extraction, Index 2012=100, M, SA, 2018-12-14,out
+IPG213S,Industrial Production: Mining: Support activities for mining, Index 2012=100, M, SA, 2018-12-14,out
+IPB51123S,Industrial Production: Miscellaneous durable goods, Index 2012=100, M, SA, 2018-12-14,out
+IPB53132S,Industrial Production: Miscellaneous durable materials, Index 2012=100, M, SA, 2018-12-14,out
+IPB51215S,Industrial Production: Miscellaneous nondurable goods, Index 2012=100, M, SA, 2018-12-14,out
+IPB53242S,Industrial Production: Miscellaneous nondurable materials, Index 2012=100, M, SA, 2018-12-14,out
+IPG2212S,Industrial Production: Natural gas distribution, Index 2012=100, M, SA, 2018-12-14,out
+IPNCONGD,Industrial Production: Nondurable Consumer Goods, Index 2012=100, M, SA, 2018-12-14,out
+IPB53230S,Industrial Production: Nondurable Goods Materials: Chemical materials, Index 2012=100, M, SA, 2018-12-14,out
+IPB53220S,Industrial Production: Nondurable Goods Materials: Paper materials, Index 2012=100, M, SA, 2018-12-14,out
+IPB53210S,Industrial Production: Nondurable Goods Materials: Textile materials, Index 2012=100, M, SA, 2018-12-14,out
+IPG325188AS,"Industrial Production: Nondurable Goods: Acids, phosphates, and sulfates (DISCONTINUED)", Index 2007=100, M, SA, 2015-07-15,out
+IPN325181S,Industrial Production: Nondurable Goods: Alkalies and chlorine (DISCONTINUED), Index 2007=100, M, SA, 2015-07-15,out
+IPG325188S,Industrial Production: Nondurable Goods: All other basic inorganic chemical (DISCONTINUED), Index 2007=100, M, SA, 2015-07-15,out
+IPG311611T3S,Industrial Production: Nondurable Goods: Animal, Index 2012=100, M, SA, 2018-12-14,out
+IPG3111S,Industrial Production: Nondurable Goods: Animal food, Index 2012=100, M, SA, 2018-12-14,out
+IPG3116S,Industrial Production: Nondurable Goods: Animal slaughtering and processing, Index 2012=100, M, SA, 2018-12-14,out
+IPG315S,Industrial Production: Nondurable Goods: Apparel, Index 2012=100, M, SA, 2018-12-14,out
+IPN32522S,Industrial Production: Nondurable Goods: Artificial and synthetic fibers and filaments, Index 2012=100, M, SA, 2018-12-14,out
+IPN32411GS,Industrial Production: Nondurable Goods: Automotive gasoline, Index 2012=100, M, SA, 2018-12-14,out
+IPN32411AS,Industrial Production: Nondurable Goods: Aviation fuel and kerosene, Index 2012=100, M, SA, 2018-12-14,out
+IPN3118S,Industrial Production: Nondurable Goods: Bakeries and tortilla, Index 2012=100, M, SA, 2018-12-14,out
+IPG3251S,Industrial Production: Nondurable Goods: Basic chemical, Index 2012=100, M, SA, 2018-12-14,out
+IPG32512T8S,Industrial Production: Nondurable Goods: Basic inorganic chemicals, Index 2012=100, M, SA, 2018-12-14,out
+IPN311611T3BS,Industrial Production: Nondurable Goods: Beef, Index 2012=100, M, SA, 2018-12-14,out
+IPG3121S,Industrial Production: Nondurable Goods: Beverage, Index 2012=100, M, SA, 2018-12-14,out
+IPG312S,Industrial Production: Nondurable Goods: Beverage and tobacco product, Index 2012=100, M, SA, 2018-12-14,out
+IPN31212S,Industrial Production: Nondurable Goods: Breweries, Index 2012=100, M, SA, 2018-12-14,out
+IPG31411S,Industrial Production: Nondurable Goods: Carpet and rug mills, Index 2012=100, M, SA, 2018-12-14,out
+IPN311513S,Industrial Production: Nondurable Goods: Cheese, Index 2012=100, M, SA, 2018-12-14,out
+IPB51213S,Industrial Production: Nondurable Goods: Chemical products, Index 2012=100, M, SA, 2018-12-14,out
+IPB51212S,Industrial Production: Nondurable Goods: Clothing, Index 2012=100, M, SA, 2018-12-14,out
+IPG31192S,Industrial Production: Nondurable Goods: Coffee and tea, Index 2012=100, M, SA, 2018-12-14,out
+IPG3222S,Industrial Production: Nondurable Goods: Converted paper product, Index 2012=100, M, SA, 2018-12-14,out
+IPN311512S,Industrial Production: Nondurable Goods: Creamery butter, Index 2012=100, M, SA, 2018-12-14,out
+IPG31151S,Industrial Production: Nondurable Goods: Dairy product, Index 2012=100, M, SA, 2018-12-14,out
+IPG3115S,Industrial Production: Nondurable Goods: Dairy product, Index 2012=100, M, SA, 2018-12-14,out
+IPN32411DS,Industrial Production: Nondurable Goods: Distillate fuel oil, Index 2012=100, M, SA, 2018-12-14,out
+IPN311514S,"Industrial Production: Nondurable Goods: Dry, condensed, and evaporated dairy product", Index 2012=100, M, SA, 2018-12-14,out
+IPG3132S,Industrial Production: Nondurable Goods: Fabric mills, Index 2012=100, M, SA, 2018-12-14,out
+IPN3131S,"Industrial Production: Nondurable Goods: Fiber, yarn, and thread mills", Index 2012=100, M, SA, 2016-03-16,out
+IPN311511S,Industrial Production: Nondurable Goods: Fluid milk, Index 2012=100, M, SA, 2018-12-14,out
+IPG311S,Industrial Production: Nondurable Goods: Food, Index 2012=100, M, SA, 2018-12-14,out
+IPB51211S,Industrial Production: Nondurable Goods: Foods and tobacco, Index 2012=100, M, SA, 2018-12-14,out
+IPG3114S,Industrial Production: Nondurable Goods: Fruit and vegetable preserving and specialty food, Index 2012=100, M, SA, 2018-12-14,out
+IPG3112S,Industrial Production: Nondurable Goods: Grain and oilseed milling, Index 2012=100, M, SA, 2018-12-14,out
+IPN31152S,Industrial Production: Nondurable Goods: Ice cream and frozen dessert, Index 2012=100, M, SA, 2018-12-14,out
+IPG32512S,Industrial Production: Nondurable Goods: Industrial gas, Index 2012=100, M, SA, 2018-12-14,out
+IPG316S,Industrial Production: Nondurable Goods: Leather and allied product, Index 2012=100, M, SA, 2018-12-14,out
+IPN311611T3ZS,Industrial Production: Nondurable Goods: Miscellaneous meats, Index 2012=100, M, SA, 2018-12-14,out
+IPG51111S,Industrial Production: Nondurable Goods: Newspaper publishers, Index 2012=100, M, SA, 2018-12-14,out
+IPG5111S,"Industrial Production: Nondurable Goods: Newspaper, periodical, book, and directory publishers", Index 2012=100, M, SA, 2018-12-14,out
+IPG32511A9S,Industrial Production: Nondurable Goods: Organic chemicals, Index 2012=100, M, SA, 2018-12-14,out
+IPG32518S,Industrial Production: Nondurable Goods: Other basic inorganic chemical, Index 2012=100, M, SA, 2018-12-14,out
+IPG32223A9S,Industrial Production: Nondurable Goods: Other converted paper products, Index 2012=100, M, SA, 2018-12-14,out
+IPG3119S,Industrial Production: Nondurable Goods: Other food, Index 2012=100, M, SA, 2018-12-14,out
+IPG325188ZS,Industrial Production: Nondurable Goods: Other inorganic chemicals (DISCONTINUED), Index 2007=100, M, SA, 2015-07-15,out
+IPG32411XS,Industrial Production: Nondurable Goods: Other refinery output, Index 2012=100, M, SA, 2018-12-14,out
+IPG3149S,Industrial Production: Nondurable Goods: Other textile product mills, Index 2012=100, M, SA, 2018-12-14,out
+IPG32551S,Industrial Production: Nondurable Goods: Paint and coating, Index 2012=100, M, SA, 2018-12-14,out
+IPG3255S,"Industrial Production: Nondurable Goods: Paint, coating, and adhesive", Index 2012=100, M, SA, 2018-12-14,out
+IPG3255A9S,Industrial Production: Nondurable Goods: Paints and other chemical products, Index 2012=100, M, SA, 2018-12-14,out
+IPG3255T9S,"Industrial Production: Nondurable Goods: Paints, soaps and toiletries, and other chemical products", Index 2012=100, M, SA, 2018-12-14,out
+IPN322121S,Industrial Production: Nondurable Goods: Paper, Index 2012=100, M, SA, 2018-12-14,out
+IPG32222S,Industrial Production: Nondurable Goods: Paper bag and coated and treated paper, Index 2012=100, M, SA, 2018-12-14,out
+IPG32212S,Industrial Production: Nondurable Goods: Paper mills, Index 2012=100, M, SA, 2018-12-14,out
+IPB51214S,Industrial Production: Nondurable Goods: Paper products, Index 2012=100, M, SA, 2018-12-14,out
+IPN32221S,Industrial Production: Nondurable Goods: Paperboard container, Index 2012=100, M, SA, 2018-12-14,out
+IPN32213S,Industrial Production: Nondurable Goods: Paperboard mills, Index 2012=100, M, SA, 2018-12-14,out
+IPN32412A9S,"Industrial Production: Nondurable Goods: Paving, roofing, and other petroleum and coal products", Index 2012=100, M, SA, 2018-12-14,out
+IPG51112T9S,"Industrial Production: Nondurable Goods: Periodical, book, and other publishers", Index 2012=100, M, SA, 2018-12-14,out
+IPG3253S,"Industrial Production: Nondurable Goods: Pesticide, fertilizer, and other agricultural chemical", Index 2012=100, M, SA, 2018-12-14,out
+IPG32411S,Industrial Production: Nondurable Goods: Petroleum refineries, Index 2012=100, M, SA, 2018-12-14,out
+IPG3254S,Industrial Production: Nondurable Goods: Pharmaceutical and medicine, Index 2012=100, M, SA, 2018-12-14,out
+IPN325211S,Industrial Production: Nondurable Goods: Plastics material and resin, Index 2012=100, M, SA, 2018-12-14,out
+IPG3261S,Industrial Production: Nondurable Goods: Plastics product, Index 2012=100, M, SA, 2018-12-14,out
+IPN311611T3PS,Industrial Production: Nondurable Goods: Pork, Index 2012=100, M, SA, 2018-12-14,out
+IPN311615S,Industrial Production: Nondurable Goods: Poultry processing, Index 2012=100, M, SA, 2018-12-14,out
+IPN32211S,Industrial Production: Nondurable Goods: Pulp mills, Index 2012=100, M, SA, 2018-12-14,out
+IPG3221S,"Industrial Production: Nondurable Goods: Pulp, paper, and paperboard mills", Index 2012=100, M, SA, 2018-12-14,out
+IPN32411RS,Industrial Production: Nondurable Goods: Residual fuel oil, Index 2012=100, M, SA, 2018-12-14,out
+IPG32521S,Industrial Production: Nondurable Goods: Resin and synthetic rubber, Index 2012=100, M, SA, 2018-12-14,out
+IPG3252S,"Industrial Production: Nondurable Goods: Resin, synthetic rubber, and artificial and synthetic fibers and filaments", Index 2012=100, M, SA, 2018-12-14,out
+IPG3262S,Industrial Production: Nondurable Goods: Rubber product, Index 2012=100, M, SA, 2018-12-14,out
+IPG32622A9S,Industrial Production: Nondurable Goods: Rubber products excluding tires, Index 2012=100, M, SA, 2018-12-14,out
+IPG3256S,"Industrial Production: Nondurable Goods: Soap, cleaning compound, and toilet preparation", Index 2012=100, M, SA, 2018-12-14,out
+IPN31211S,Industrial Production: Nondurable Goods: Soft drink and ice, Index 2012=100, M, SA, 2018-12-14,out
+IPG3113S,Industrial Production: Nondurable Goods: Sugar and confectionery product, Index 2012=100, M, SA, 2018-12-14,out
+IPG32513S,Industrial Production: Nondurable Goods: Synthetic dye and pigment, Index 2012=100, M, SA, 2018-12-14,out
+IPG325212S,Industrial Production: Nondurable Goods: Synthetic rubber, Index 2012=100, M, SA, 2018-12-14,out
+IPG3133S,Industrial Production: Nondurable Goods: Textile and fabric finishing and fabric coating mills, Index 2012=100, M, SA, 2018-12-14,out
+IPG3141S,Industrial Production: Nondurable Goods: Textile furnishings mills, Index 2012=100, M, SA, 2018-12-14,out
+IPG313S,Industrial Production: Nondurable Goods: Textile mills, Index 2012=100, M, SA, 2018-12-14,out
+IPG314S,Industrial Production: Nondurable Goods: Textile product mills, Index 2012=100, M, SA, 2018-12-14,out
+IPG32621S,Industrial Production: Nondurable Goods: Tire, Index 2012=100, M, SA, 2018-12-14,out
+IPG3122S,Industrial Production: Nondurable Goods: Tobacco, Index 2012=100, M, SA, 2018-12-14,out
+IPNMAN,Industrial Production: Nondurable Manufacturing (NAICS), Index 2012=100, M, SA, 2018-12-14,out
+IPG315A6S,Industrial Production: Nondurable manufacturing: Apparel and leather goods, Index 2012=100, M, SA, 2018-12-14,out
+IPG325S,Industrial Production: Nondurable manufacturing: Chemical, Index 2012=100, M, SA, 2018-12-14,out
+IPG311A2S,"Industrial Production: Nondurable manufacturing: Food, beverage, and tobacco", Index 2012=100, M, SA, 2018-12-14,out
+IPG322S,Industrial Production: Nondurable manufacturing: Paper, Index 2012=100, M, SA, 2018-12-14,out
+IPG324S,Industrial Production: Nondurable manufacturing: Petroleum and coal products, Index 2012=100, M, SA, 2018-12-14,out
+IPG326S,Industrial Production: Nondurable manufacturing: Plastics and rubber products, Index 2012=100, M, SA, 2018-12-14,out
+IPG323S,Industrial Production: Nondurable manufacturing: Printing and related support activities, Index 2012=100, M, SA, 2018-12-14,out
+IPG313A4S,Industrial Production: Nondurable manufacturing: Textiles and products, Index 2012=100, M, SA, 2018-12-14,out
+IPNMAT,Industrial Production: Nondurable Materials, Index 2012=100, M, SA, 2018-12-14,out
+IPB53241S,Industrial Production: Nondurable Materials: Containers, Index 2012=100, M, SA, 2018-12-14,out
+IPB51210S,Industrial Production: Nondurable nonenergy consumer goods, Index 2012=100, M, SA, 2018-12-14,out
+IPX5EHTKS,"Industrial Production: Non-energy excluding computers, communications equipment, and semiconductors", Index 2012=100, M, SA, 2018-12-14,out
+IPX50EHVS,"Industrial Production: Non-energy excluding motor vehicles and parts, computers, communications equipment, and semiconductors", Index 2012=100, M, SA, 2018-12-14,out
+IPB53810S,Industrial Production: Non-energy materials for finished goods producers, Index 2012=100, M, SA, 2018-12-14,out
+IPB53820S,Industrial Production: Non-energy materials for intermediate goods producers, Index 2012=100, M, SA, 2018-12-14,out
+IPX5001ES,"Industrial Production: Non-energy, total", Index 2012=100, M, SA, 2018-12-14,out
+IPB54000S,Industrial Production: Nonindustrial supplies, Index 2012=100, M, SA, 2018-12-14,out
+IPB52200S,Industrial Production: Oil and gas well drilling and manufactured homes, Index 2012=100, M, SA, 2018-12-14,out
+IPB53130S,Industrial Production: Other durable materials, Index 2012=100, M, SA, 2018-12-14,out
+IPB52132S,Industrial Production: Other equipment, Index 2012=100, M, SA, 2018-12-14,out
+IPB53123S,Industrial Production: Other equipment parts, Index 2012=100, M, SA, 2018-12-14,out
+IPGMFOS,Industrial Production: Other manufacturing, Index 2012=100, M, SA, 2018-12-14,out
+IPB53240S,Industrial Production: Other nondurable materials, Index 2012=100, M, SA, 2018-12-14,out
+IPB562A3CS,Industrial Production: Primary and semifinished processing, Index 2012=100, M, SA, 2018-12-14,out
+IPB51222S,Industrial Production: Residential utilities, Index 2012=100, M, SA, 2018-12-14,out
+IPG33441A1S,Industrial Production: Semiconductors and related equipment (DISCONTINUED), Index 2007=100, M, SA, 2015-07-15,out
+IPB53122S,"Industrial Production: Semiconductors, printed circuit boards, and other", Index 2012=100, M, SA, 2018-12-14,out
+IPX50HTKS,"Industrial Production: Total excluding computers, communications equipment, and semiconductors", Index 2012=100, M, SA, 2018-12-14,out
+IPX50001S,Industrial Production: Total excluding motor vehicles and parts, Index 2012=100, M, SA, 2018-12-14,out
+IPX5VHT2S,Industrial Production: Total excluding selected high-tech. and motor vehicles and parts, Index 2012=100, M, SA, 2018-12-14,out
+IPN22112CS,Industrial Production: Utilities: Commercial and other electricity sales, Index 2012=100, M, SA, 2018-12-14,out
+IPN2212CS,Industrial Production: Utilities: Commercial and other gas sales, Index 2012=100, M, SA, 2018-12-14,out
+IPG22111S,Industrial Production: Utilities: Electric power generation, Index 2012=100, M, SA, 2018-12-14,out
+IPG22112S,"Industrial Production: Utilities: Electric power transmission, control, and distribution", Index 2012=100, M, SA, 2018-12-14,out
+IPN221112A9S,Industrial Production: Utilities: Fossil fuel and other electric power generation (DISCONTINUED), Index 2007=100, M, SA, 2015-07-15,out
+IPN2212TS,Industrial Production: Utilities: Gas transmission, Index 2012=100, M, SA, 2018-12-14,out
+IPN221111S,Industrial Production: Utilities: Hydroelectric power generation, Index 2012=100, M, SA, 2018-12-14,out
+IPN22112MS,Industrial Production: Utilities: Industrial electricity sales, Index 2012=100, M, SA, 2018-12-14,out
+IPN2212MS,Industrial Production: Utilities: Industrial gas sales, Index 2012=100, M, SA, 2018-12-14,out
+IPN221113S,Industrial Production: Utilities: Nuclear electric power generation, Index 2012=100, M, SA, 2018-12-14,out
+IPN22112RS,Industrial Production: Utilities: Residential electricity sales, Index 2012=100, M, SA, 2018-12-14,out
+IPN2212RS,Industrial Production: Utilities: Residential gas sales, Index 2012=100, M, SA, 2018-12-14,out
+CUSR0000SEHF01,Consumer Price Index - All Urban Consumers - Electricity, Index 1982-84=100, M, SA, 2019-01-11,Pri
+CUSR0000SEHF02,Consumer Price Index - All Urban Consumers - Utility (piped) gas service, Index 1982-84=100, M, SA, 2019-01-11,Pri
+CUSR0000SS62031,"Consumer Price Index for All Urban Consumers: Admission to movies, theaters, and concerts", Index Dec 1997=100, M, SA, 2019-01-11,Pri
+CUSR0000SETG01,Consumer Price Index for All Urban Consumers: Airline fare, Index 1982-84=100, M, SA, 2019-01-11,Pri
+CUSR0000SAF116,Consumer Price Index for All Urban Consumers: Alcoholic beverages, Index 1982-84=100, M, SA, 2019-01-11,Pri
+CUSR0000SEFW,Consumer Price Index for All Urban Consumers: Alcoholic beverages at home, Index 1982-84=100, M, SA, 2019-01-11,Pri
+CUSR0000SEFX,Consumer Price Index for All Urban Consumers: Alcoholic beverages away from home, Index 1982-84=100, M, SA, 2019-01-11,Pri
+CPIAUCSL,Consumer Price Index for All Urban Consumers: All Items, Index 1982-1984=100, M, SA, 2019-01-11,Pri
+CPILEGSL,Consumer Price Index for All Urban Consumers: All Items Less Energy, Index 1982-84=100, M, SA, 2019-01-11,Pri
+CPIULFSL,Consumer Price Index for All Urban Consumers: All Items Less Food, Index 1982-84=100, M, SA, 2019-01-11,Pri
+CPILFESL,Consumer Price Index for All Urban Consumers: All Items Less Food and Energy, Index 1982-1984=100, M, SA, 2019-01-11,Pri
+CUSR0000SA0L5,Consumer Price Index for All Urban Consumers: All items less medical care, Index 1982-84=100, M, SA, 2019-01-11,Pri
+CUSR0000SA0L2,Consumer Price Index for All Urban Consumers: All items less shelter, Index 1982-84=100, M, SA, 2019-01-11,Pri
+CPIAPPSL,Consumer Price Index for All Urban Consumers: Apparel, Index 1982-84=100, M, SA, 2019-01-11,Pri
+CUSR0000SA311,Consumer Price Index for All Urban Consumers: Apparel less footwear, Index 1982-84=100, M, SA, 2019-01-11,Pri
+CUSR0000SERA02,Consumer Price Index for All Urban Consumers: Cable and satellite television and radio service, Index Dec 1983=100, M, SA, 2019-01-11,Pri
+CUSR0000SAF111,Consumer Price Index for All Urban Consumers: Cereals and bakery products, Index 1982-84=100, M, SA, 2019-01-11,Pri
+CUSR0000SERF01,Consumer Price Index for All Urban Consumers: Club dues and fees for participant sports and group exercises, Index Dec 1997=100, M, SA, 2019-01-11,Pri
+CUSR0000SEFP01,Consumer Price Index for All Urban Consumers: Coffee, Index 1982-84=100, M, SA, 2019-01-11,Pri
+CUSR0000SAC,Consumer Price Index for All Urban Consumers: Commodities, Index 1982-84=100, M, SA, 2019-01-11,Pri
+CUSR0000SACL1,Consumer Price Index for All Urban Consumers: Commodities less food, Index 1982-84=100, M, SA, 2019-01-11,Pri
+CUSR0000SACL11,Consumer Price Index for All Urban Consumers: Commodities less food and beverages, Index 1982-84=100, M, SA, 2019-01-11,Pri
+CUSR0000SACL1E,Consumer Price Index for All Urban Consumers: Commodities less food and energy commodities, Index 1982-84=100, M, SA, 2019-01-11,Pri
+CUSR0000SAE2,Consumer Price Index for All Urban Consumers: Communication, Index Dec 1997=100, M, SA, 2019-01-11,Pri
+CUSR0000SEFJ,Consumer Price Index for All Urban Consumers: Dairy and related products, Index 1982-84=100, M, SA, 2019-01-11,Pri
+CUSR0000SAD,Consumer Price Index for All Urban Consumers: Durables, Index 1982-84=100, M, SA, 2019-01-11,Pri
+CUSR0000SAE1,Consumer Price Index for All Urban Consumers: Education, Index Dec 1997=100, M, SA, 2019-01-11,Pri
+CPIEDUSL,Consumer Price Index for All Urban Consumers: Education and Communication, Index Dec 1997=100, M, SA, 2019-01-11,Pri
+CUSR0000SEEA,Consumer Price Index for All Urban Consumers: Educational books and supplies, Index 1982-84=100, M, SA, 2019-01-11,Pri
+CPIENGSL,Consumer Price Index for All Urban Consumers: Energy, Index 1982-84=100, M, SA, 2019-01-11,Pri
+CUSR0000SACE,Consumer Price Index for All Urban Consumers: Energy commodities, Index 1982-84=100, M, SA, 2019-01-11,Pri
+CUSR0000SEHF,Consumer Price Index for All Urban Consumers: Energy services, Index 1982-84=100, M, SA, 2019-01-11,Pri
+CUSR0000SEFS,Consumer Price Index for All Urban Consumers: Fats and oils, Index 1982-84=100, M, SA, 2019-01-11,Pri
+CUSR0000SERF03,Consumer Price Index for All Urban Consumers: Fees for lessons or instructions, Index Dec 1986=100, M, SA, 2019-01-11,Pri
+CPIUFDSL,Consumer Price Index for All Urban Consumers: Food, Index 1982-84=100, M, SA, 2019-01-11,Pri
+CPIFABSL,Consumer Price Index for All Urban Consumers: Food and Beverages, Index 1982-84=100, M, SA, 2019-01-11,Pri
+CUSR0000SAF11,Consumer Price Index for All Urban Consumers: Food at home, Index 1982-84=100, M, SA, 2019-01-11,Pri
+CUSR0000SEFV,Consumer Price Index for All Urban Consumers: Food away from home, Index 1982-84=100, M, SA, 2019-01-11,Pri
+CUSR0000SEAE,Consumer Price Index for All Urban Consumers: Footwear, Index 1982-84=100, M, SA, 2019-01-11,Pri
+CUSR0000SAF113,Consumer Price Index for All Urban Consumers: Fruits and vegetables, Index 1982-84=100, M, SA, 2019-01-11,Pri
+CUSR0000SEHE,Consumer Price Index for All Urban Consumers: Fuel oil and other fuels, Index 1982-84=100, M, SA, 2019-01-11,Pri
+CUSR0000SAH2,Consumer Price Index for All Urban Consumers: Fuels and utilities, Index 1982-84=100, M, SA, 2019-01-11,Pri
+CUSR0000SETB01,Consumer Price Index for All Urban Consumers: Gasoline (all types), Index 1982-84=100, M, SA, 2019-01-11,Pri
+CUSR0000SEMD,Consumer Price Index for All Urban Consumers: Hospital and related services, Index 1982-84=100, M, SA, 2019-01-11,Pri
+CUSR0000SAH21,Consumer Price Index for All Urban Consumers: Household energy, Index 1982-84=100, M, SA, 2019-01-11,Pri
+CUSR0000SAH3,Consumer Price Index for All Urban Consumers: Household furnishings and operations, Index 1982-84=100, M, SA, 2019-01-11,Pri
+CPIHOSSL,Consumer Price Index for All Urban Consumers: Housing, Index 1982-84=100, M, SA, 2019-01-11,Pri
+CUSR0000SEAF,Consumer Price Index for All Urban Consumers: Infants' and toddlers' apparel, Index 1982-84=100, M, SA, 2019-01-11,Pri
+CUSR0000SAE21,Consumer Price Index for All Urban Consumers: Information and information processing, Index Dec 1997=100, M, SA, 2019-01-11,Pri
+CUSR0000SEEE,"Consumer Price Index for All Urban Consumers: Information technology, hardware and services", Index Dec 1988=100, M, SA, 2019-01-11,Pri
+CUSR0000SEGD03,Consumer Price Index for All Urban Consumers: Laundry and dry cleaning services, Index Dec 1997=100, M, SA, 2019-01-11,Pri
+CUSR0000SEHB,Consumer Price Index for All Urban Consumers: Lodging away from home, Index Dec 1997=100, M, SA, 2019-01-11,Pri
+CUSR0000SAF112,"Consumer Price Index for All Urban Consumers: Meats, poultry, fish, and eggs", Index 1982-84=100, M, SA, 2019-01-11,Pri
+CPIMEDSL,Consumer Price Index for All Urban Consumers: Medical Care, Index 1982-84=100, M, SA, 2019-01-11,Pri
+CUSR0000SAM1,Consumer Price Index for All Urban Consumers: Medical care commodities, Index 1982-84=100, M, SA, 2019-01-11,Pri
+CUSR0000SAM2,Consumer Price Index for All Urban Consumers: Medical care services, Index 1982-84=100, M, SA, 2019-01-11,Pri
+CUSR0000SAA1,Consumer Price Index for All Urban Consumers: Men's and boys' apparel, Index 1982-84=100, M, SA, 2019-01-11,Pri
+CUSR0000SEGD,Consumer Price Index for All Urban Consumers: Miscellaneous personal services, Index 1982-84=100, M, SA, 2019-01-11,Pri
+CUSR0000SETB,Consumer Price Index for All Urban Consumers: Motor fuel, Index 1982-84=100, M, SA, 2019-01-11,Pri
+CUSR0000SETD,Consumer Price Index for All Urban Consumers: Motor vehicle maintenance and repair, Index 1982-84=100, M, SA, 2019-01-11,Pri
+CUSR0000SETC,Consumer Price Index for All Urban Consumers: Motor vehicle parts and equipment, Index 1982-84=100, M, SA, 2019-01-11,Pri
+CUSR0000SERE03,Consumer Price Index for All Urban Consumers: Music instruments and accessories, Index Dec 1997=100, M, SA, 2019-01-11,Pri
+CUSR0000SETA,Consumer Price Index for All Urban Consumers: New and used motor vehicles, Index Dec 1997=100, M, SA, 2019-01-11,Pri
+CUSR0000SETA01,Consumer Price Index for All Urban Consumers: New vehicles, Index 1982-84=100, M, SA, 2019-01-11,Pri
+CUSR0000SAF114,Consumer Price Index for All Urban Consumers: Nonalcoholic beverages and beverage materials, Index 1982-84=100, M, SA, 2019-01-11,Pri
+CUSR0000SAN,Consumer Price Index for All Urban Consumers: Nondurables, Index 1982-84=100, M, SA, 2019-01-11,Pri
+CUSR0000SANL1,Consumer Price Index for All Urban Consumers: Nondurables less food, Index 1982-84=100, M, SA, 2019-01-11,Pri
+CUSR0000SANL13,Consumer Price Index for All Urban Consumers: Nondurables less food and apparel, Index 1982-84=100, M, SA, 2019-01-11,Pri
+CUSR0000SANL11,Consumer Price Index for All Urban Consumers: Nondurables less food and beverages, Index 1982-84=100, M, SA, 2019-01-11,Pri
+CUSR0000SANL113,"Consumer Price Index for All Urban Consumers: Nondurables less food, beverages, and apparel", Index 1982-84=100, M, SA, 2019-01-11,Pri
+CUSR0000SAF115,Consumer Price Index for All Urban Consumers: Other food at home, Index 1982-84=100, M, SA, 2019-01-11,Pri
+CUSR0000SEFV05,Consumer Price Index for All Urban Consumers: Other food away from home, Index Dec 1997=100, M, SA, 2019-01-11,Pri
+CUSR0000SEFT,Consumer Price Index for All Urban Consumers: Other foods, Index 1982-84=100, M, SA, 2019-01-11,Pri
+CPIOGSSL,Consumer Price Index for All Urban Consumers: Other Goods and Services, Index 1982-84=100, M, SA, 2019-01-11,Pri
+CUSR0000SAS367,Consumer Price Index for All Urban Consumers: Other services, Index 1982-84=100, M, SA, 2019-01-11,Pri
+CUSR0000SEHC01,Consumer Price Index for All Urban Consumers: Owners' equivalent rent of primary residence, Index Dec 1982=100, M, SA, 2019-01-11,Pri
+CUSR0000SEHC,Consumer Price Index for All Urban Consumers: Owners' equivalent rent of residences, Index Dec 1982=100, M, SA, 2019-01-11,Pri
+CUSR0000SAG1,Consumer Price Index for All Urban Consumers: Personal care, Index 1982-84=100, M, SA, 2019-01-11,Pri
+CUSR0000SEEE01,Consumer Price Index for All Urban Consumers: Personal computers and peripheral equipment, Index Dec 2007=100, M, SA, 2019-01-11,Pri
+CUSR0000SS61031,Consumer Price Index for All Urban Consumers: Pet food, Index Dec 1997=100, M, SA, 2019-01-11,Pri
+CUSR0000SAT1,Consumer Price Index for All Urban Consumers: Private transportation, Index 1982-84=100, M, SA, 2019-01-11,Pri
+CUSR0000SEMC,Consumer Price Index for All Urban Consumers: Professional services, Index 1982-84=100, M, SA, 2019-01-11,Pri
+CUSR0000SETG,Consumer Price Index for All Urban Consumers: Public transportation, Index 1982-84=100, M, SA, 2019-01-11,Pri
+CPIRECSL,Consumer Price Index for All Urban Consumers: Recreation, Index Dec 1997=100, M, SA, 2019-01-11,Pri
+CUSR0000SEHA,Consumer Price Index for All Urban Consumers: Rent of primary residence, Index 1982-84=100, M, SA, 2019-01-11,Pri
+CUSR0000SAS2RS,Consumer Price Index for All Urban Consumers: Rent of shelter, Index Dec 1982=100, M, SA, 2019-01-11,Pri
+CUSR0000SAS,Consumer Price Index for All Urban Consumers: Services, Index 1982-84=100, M, SA, 2019-01-11,Pri
+CUSR0000SEMC04,Consumer Price Index for All Urban Consumers: Services by other medical professionals, Index Dec 1986=100, M, SA, 2019-01-11,Pri
+CUSR0000SASLE,Consumer Price Index for All Urban Consumers: Services less energy services, Index 1982-84=100, M, SA, 2019-01-11,Pri
+CUSR0000SASL5,Consumer Price Index for All Urban Consumers: Services less medical care services, Index 1982-84=100, M, SA, 2019-01-11,Pri
+CUSR0000SASL2RS,Consumer Price Index for All Urban Consumers: Services less rent of shelter, Index Dec 1982=100, M, SA, 2019-01-11,Pri
+CUSR0000SAH1,Consumer Price Index for All Urban Consumers: Shelter, Index 1982-84=100, M, SA, 2019-01-11,Pri
+CUSR0000SEFR,Consumer Price Index for All Urban Consumers: Sugar and sweets, Index 1982-84=100, M, SA, 2019-01-11,Pri
+CUSR0000SEGA,Consumer Price Index for All Urban Consumers: Tobacco and smoking products, Index 1982-84=100, M, SA, 2019-01-11,Pri
+CUSR0000SERE01,Consumer Price Index for All Urban Consumers: Toys, Index 1982-84=100, M, SA, 2019-01-11,Pri
+CPITRNSL,Consumer Price Index for All Urban Consumers: Transportation, Index 1982-84=100, M, SA, 2019-01-11,Pri
+CUSR0000SAS4,Consumer Price Index for All Urban Consumers: Transportation services, Index 1982-84=100, M, SA, 2019-01-11,Pri
+CUSR0000SEEB,"Consumer Price Index for All Urban Consumers: Tuition, other school fees, and childcare", Index 1982-84=100, M, SA, 2019-01-11,Pri
+CUSR0000SETA02,Consumer Price Index for All Urban Consumers: Used cars and trucks, Index 1982-84=100, M, SA, 2019-01-11,Pri
+CUSR0000SERA,Consumer Price Index for All Urban Consumers: Video and audio, Index Dec 1997=100, M, SA, 2019-01-11,Pri
+CUSR0000SERAC,Consumer Price Index for All Urban Consumers: Video and audio products, Index Dec 2009=100, M, SA, 2019-01-11,Pri
+CUSR0000SEHG,Consumer Price Index for All Urban Consumers: Water and sewer and trash collection services, Index Dec 1997=100, M, SA, 2019-01-11,Pri
+CUSR0000SAA2,Consumer Price Index for All Urban Consumers: Women's and girls' apparel, Index 1982-84=100, M, SA, 2019-01-11,Pri
+PPIAWS,Producer Price Index by Commodity for Final Demand: Transportation and Warehousing, Index Nov 2009= 100, M, SA, 2018-12-11,Pri
+PPIDCS,Producer Price Index by Commodity for Final Demand: Construction, Index Nov 2009 = 100, M, SA, 2018-12-11,Pri
+PPIDES,Producer Price Index by Commodity for Final Demand: Energy, Index Nov 2009 = 100, M, SA, 2018-12-11,Pri
+PPIDFS,Producer Price Index by Commodity for Final Demand: Foods, Index Nov 2009 = 100, M, SA, 2018-12-11,Pri
+PPIDGS,Producer Price Index by Commodity for Final Demand: Goods, Index Nov 2009 = 100, M, SA, 2018-12-11,Pri
+PPIDSS,Producer Price Index by Commodity for Final Demand: Services, Index Nov 2009 = 100, M, SA, 2018-12-11,Pri
+PPIFES,Producer Price Index by Commodity for Final Demand Less Foods and Energy, Index Apr 2010=100, M, SA, 2018-12-11,Pri
+PPIFIS,Producer Price Index by Commodity for Final Demand, Index Nov 2009 = 100, M, SA, 2018-12-11,Pri
+PPITSS,Producer Price Index by Commodity for Final Demand: Trade Services, Index Nov 2009 = 100, M, SA, 2018-12-11,Pri
+PPITWS,"Producer Price Index by Commodity for Final Demand: Services less Trade, Transportation, and Warehousing", Index Nov 2009= 100, M, SA, 2018-12-11,Pri
