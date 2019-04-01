@@ -488,3 +488,156 @@ PPIFES,Producer Price Index by Commodity for Final Demand Less Foods and Energy,
 PPIFIS,Producer Price Index by Commodity for Final Demand, Index Nov 2009 = 100, M, SA, 2018-12-11,Pri
 PPITSS,Producer Price Index by Commodity for Final Demand: Trade Services, Index Nov 2009 = 100, M, SA, 2018-12-11,Pri
 PPITWS,"Producer Price Index by Commodity for Final Demand: Services less Trade, Transportation, and Warehousing", Index Nov 2009= 100, M, SA, 2018-12-11,Pri
+AUTHNOT1USA,"New Privately-Owned Housing Units Authorized, but Not Started: 1-Unit Structures", Thous. of Units, M, SA, 2018-12-18,HSS
+AUTHNOT24USA,"New Privately-Owned Housing Units Authorized, but Not Started: 2-4 Unit Structures", Thous. of Units, M, SA, 2018-12-18,HSS
+AUTHNOT5MUSA,"New Privately-Owned Housing Units Authorized, but Not Started: 5-Unit Structures or More", Thous. of Units, M, SA, 2018-12-18,HSS
+AUTHNOTTSA,"New Privately-Owned Housing Units Authorized, but Not Started: Total", Thous. of Units, M, SA, 2018-12-18,HSS
+COMPU1USA,New Privately-Owned Housing Units Completed: 1-Unit Structures, Thous. of Units, M, SAAR, 2018-12-18,HSS
+COMPU24USA,New Privately-Owned Housing Units Completed: 2-4 Unit Structures, Thous. of Units, M, SAAR, 2018-12-18,HSS
+COMPU5MUSA,New Privately-Owned Housing Units Completed: 5-Unit Structures or More, Thous. of Units, M, SAAR, 2018-12-18,HSS
+COMPUTSA,New Privately-Owned Housing Units Completed: Total, Thous. of Units, M, SAAR, 2018-12-18,HSS
+EXHOSLUSM495S,Existing Home Sales, Number of Units, M, SAAR, 2018-12-19,HSS
+EXSFHSUSM495S,Existing Single-Family Home Sales, Number of Units, M, SAAR, 2018-12-19,HSS
+HNFSEPUSSA,New One Family Homes for Sale in the United States, Thous. of Units, M, SA, 2018-11-28,HSS
+HOUST,Housing Starts: Total: New Privately Owned Housing Units Started, Thous. of Units, M, SAAR, 2018-12-18,HSS
+HOUST1F,Privately Owned Housing Starts: 1-Unit Structures, Thous. of Units, M, SAAR, 2018-12-18,HSS
+HOUST2F,Housing Starts: 2-4 Units, Thous. of Units, M, SAAR, 2018-12-18,HSS
+HOUST5F,Privately Owned Housing Starts: 5-Unit Structures or More, Thous. of Units, M, SAAR, 2018-12-18,HSS
+HPIPONM226S,Purchase Only House Price Index for the United States, Index Jan 1991=100, M, SA, 2018-12-27,HSS
+HSN1F,New One Family Houses Sold: United States, Thous., M, SAAR, 2018-11-28,HSS
+MSACSR,Monthly Supply of Houses in the United States, Months' Supply, M, SA, 2018-11-28,HSS
+NHFSEPCS,"New Houses for Sale by Stage of Construction, Completed", Thous. of Units, M, SA, 2018-11-28,HSS
+NHFSEPNTS,"New Houses for Sale by Stage of Construction, Not Started", Thous. of Units, M, SA, 2018-11-28,HSS
+NHFSEPTS,"New Houses for Sale by Stage of Construction, Total", Thous. of Units, M, SA, 2018-11-28,HSS
+NHFSEPUCS,"New Houses for Sale by Stage of Construction, Under Construction", Thous. of Units, M, SA, 2018-11-28,HSS
+NHSDPCS,"New Houses Sold by Stage of Construction, Completed", Thous. of Units, M, SA, 2018-11-28,HSS
+NHSDPNSS,"New Houses Sold by Stage of Construction, Not Started", Thous. of Units, M, SA, 2018-11-28,HSS
+NHSDPTS,"New Houses Sold by Stage of Construction, Total", Thous. of Units, M, SA, 2018-11-28,HSS
+NHSDPUCS,"New Houses Sold by Stage of Construction, Under Construction", Thous. of Units, M, SA, 2018-11-28,HSS
+PERMIT,New Private Housing Units Authorized by Building Permits, Thous. of Units, M, SAAR, 2018-12-18,HSS
+PERMIT1,New Private Housing Units Authorized by Building Permits - in Structures with 1 Unit, Thous. of Units, M, SAAR, 2018-12-18,HSS
+PERMIT24,New Private Housing Units Authorized by Building Permits - in Structures with 2 to 4 Units, Thous. of Units, M, SAAR, 2018-12-18,HSS
+PERMIT5,New Private Housing Units Authorized by Building Permits - in Structures with 5 Units, Thous. of Units, M, SAAR, 2018-12-18,HSS
+UNDCON1USA,New Privately-Owned Housing Units Under Construction: 1-Unit Structures, Thous. of Units, M, SA, 2018-12-18,HSS
+UNDCON24USA,New Privately-Owned Housing Units Under Construction: 2-4 Unit Structures, Thous. of Units, M, SA, 2018-12-18,HSS
+UNDCON5MUSA,New Privately-Owned Housing Units Under Construction: 5-Unit Structures or More, Thous. of Units, M, SA, 2018-12-18,HSS
+UNDCONTSA,New Privately-Owned Housing Units Under Construction: Total, Thous. of Units, M, SA, 2018-12-18,HSS
+CES2000000003,Average Hourly Earnings of All Employees: Construction, $ per Hour, M, SA, 2019-01-04,AHE
+CES3100000003,Average Hourly Earnings of All Employees: Durable Goods, $ per Hour, M, SA, 2019-01-04,AHE
+CES6500000003,Average Hourly Earnings of All Employees: Education and Health Services, $ per Hour, M, SA, 2019-01-04,AHE
+CES5500000003,Average Hourly Earnings of All Employees: Financial Activities, $ per Hour, M, SA, 2019-01-04,AHE
+CES0600000003,Average Hourly Earnings of All Employees: Goods-Producing, $ per Hour, M, SA, 2019-01-04,AHE
+CES5000000003,Average Hourly Earnings of All Employees: Information, $ per Hour, M, SA, 2019-01-04,AHE
+CES7000000003,Average Hourly Earnings of All Employees: Leisure and Hospitality, $ per Hour, M, SA, 2019-01-04,AHE
+CES3000000003,Average Hourly Earnings of All Employees: Manufacturing, $ per Hour, M, SA, 2019-01-04,AHE
+CES1000000003,Average Hourly Earnings of All Employees: Mining and Logging, $ per Hour, M, SA, 2019-01-04,AHE
+CES3200000003,Average Hourly Earnings of All Employees: Nondurable Goods, $ per Hour, M, SA, 2019-01-04,AHE
+CES8000000003,Average Hourly Earnings of All Employees: Other Services, $ per Hour, M, SA, 2019-01-04,AHE
+CES0800000003,Average Hourly Earnings of All Employees: Private Service-Providing, $ per Hour, M, SA, 2019-01-04,AHE
+CES6000000003,Average Hourly Earnings of All Employees: Professional and Business Services, $ per Hour, M, SA, 2019-01-04,AHE
+CES4200000003,Average Hourly Earnings of All Employees: Retail Trade, $ per Hour, M, SA, 2019-01-04,AHE
+CES0500000003,Average Hourly Earnings of All Employees: Total Private, $ per Hour, M, SA, 2019-01-04,AHE
+CES4000000003,"Average Hourly Earnings of All Employees: Trade, Transportation, and Utilities", $ per Hour, M, SA, 2019-01-04,AHE
+CES4300000003,Average Hourly Earnings of All Employees: Transportation and Warehousing, $ per Hour, M, SA, 2019-01-04,AHE
+CES4422000003,Average Hourly Earnings of All Employees: Utilities, $ per Hour, M, SA, 2019-01-04,AHE
+CES4142000003,Average Hourly Earnings of All Employees: Wholesale Trade, $ per Hour, M, SA, 2019-01-04,AHE
+USCONS,All Employees: Construction, Thous. of Persons, M, SA, 2019-01-04,EMP
+DMANEMP,All Employees: Durable Goods, Thous. of Persons, M, SA, 2019-01-04,EMP
+USEHS,All Employees: Education and Health Services, Thous. of Persons, M, SA, 2019-01-04,EMP
+USFIRE,All Employees: Financial Activities, Thous. of Persons, M, SA, 2019-01-04,EMP
+USGOOD,All Employees: Goods-Producing Industries, Thous. of Persons, M, SA, 2019-01-04,EMP
+USGOVT,All Employees: Government, Thous. of Persons, M, SA, 2019-01-04,EMP
+USINFO,All Employees: Information Services, Thous. of Persons, M, SA, 2019-01-04,EMP
+USLAH,All Employees: Leisure and Hospitality, Thous. of Persons, M, SA, 2019-01-04,EMP
+MANEMP,All Employees: Manufacturing, Thous. of Persons, M, SA, 2019-01-04,EMP
+USMINE,All Employees: Mining and logging, Thous. of Persons, M, SA, 2019-01-04,EMP
+NDMANEMP,All Employees: Nondurable goods, Thous. of Persons, M, SA, 2019-01-04,EMP
+USSERV,All Employees: Other Services, Thous. of Persons, M, SA, 2019-01-04,EMP
+USPBS,All Employees: Professional and Business Services, Thous. of Persons, M, SA, 2019-01-04,EMP
+USTRADE,All Employees: Retail Trade, Thous. of Persons, M, SA, 2019-01-04,EMP
+SRVPRD,All Employees: Service-Providing Industries, Thous. of Persons, M, SA, 2019-01-04,EMP
+PAYEMS,All Employees: Total Nonfarm Payrolls, Thous. of Persons, M, SA, 2019-01-04,EMP
+USPRIV,All Employees: Total Private Industries, Thous. of Persons, M, SA, 2019-01-04,EMP
+USTPU,"All Employees: Trade, Transportation and Utilities", Thous. of Persons, M, SA, 2019-01-04,EMP
+CES4300000001,All Employees: Transportation and Warehousing, Thous. of Persons, M, SA, 2019-01-04,EMP
+CES4422000001,All Employees: Utilities, Thous. of Persons, M, SA, 2019-01-04,EMP
+USWTRADE,All Employees: Wholesale Trade, Thous. of Persons, M, SA, 2019-01-04,EMP
+AWHAECON,Average Weekly Hours of All Employees: Construction, Hours, M, SA, 2019-01-04,EMP
+AWHAEDG,Average Weekly Hours of All Employees: Durable Goods, Hours, M, SA, 2019-01-04,EMP
+AWHAEEHS,Average Weekly Hours of All Employees: Education and Health Services, Hours, M, SA, 2019-01-04,EMP
+AWHAEFA,Average Weekly Hours of All Employees: Financial Activities, Hours, M, SA, 2019-01-04,EMP
+AWHAEGP,Average Weekly Hours of All Employees: Goods-producing, Hours, M, SA, 2019-01-04,EMP
+AWHAEINFO,Average Weekly Hours of All Employees: Information, Hours, M, SA, 2019-01-04,EMP
+AWHAELAH,Average Weekly Hours of All Employees: Leisure and Hospitality, Hours, M, SA, 2019-01-04,EMP
+AWHAEMAN,Average Weekly Hours of All Employees: Manufacturing, Hours, M, SA, 2019-01-04,EMP
+AWHAEMAL,Average Weekly Hours of All Employees: Mining and Logging, Hours, M, SA, 2019-01-04,EMP
+AWHAENDG,Average Weekly Hours of All Employees: Nondurable Goods, Hours, M, SA, 2019-01-04,EMP
+AWHAEOS,Average Weekly Hours of All Employees: Other Services, Hours, M, SA, 2019-01-04,EMP
+AWHAEPSP,Average Weekly Hours of All Employees: Private service-providing, Hours, M, SA, 2019-01-04,EMP
+AWHAEPBS,Average Weekly Hours of All Employees: Professional and Business Services, Hours, M, SA, 2019-01-04,EMP
+AWHAERT,Average Weekly Hours of All Employees: Retail Trade, Hours, M, SA, 2019-01-04,EMP
+AWHAETP,Average Weekly Hours of All Employees: Total Private, Hours, M, SA, 2019-01-04,EMP
+AWHAETTU,"Average Weekly Hours of All Employees: Trade, Transportation, and Utilities", Hours, M, SA, 2019-01-04,EMP
+AWHAETAW,Average Weekly Hours of All Employees: Transportation and Warehousing, Hours, M, SA, 2019-01-04,EMP
+AWHAEUTIL,Average Weekly Hours of All Employees: Utilities, Hours, M, SA, 2019-01-04,EMP
+AWHAEWT,Average Weekly Hours of All Employees: Wholesale Trade, Hours, M, SA, 2019-01-04,EMP
+JTS1000JOL,Job Openings: Total Private, Level in Thous., M, SA, 2019-01-08,EMP
+JTS2300JOL,Job Openings: Construction, Level in Thous., M, SA, 2019-01-08,EMP
+JTS3000JOL,Job Openings: Manufacturing, Level in Thous., M, SA, 2019-01-08,EMP
+JTS3200JOL,Job Openings: Durable Goods Manufacturing, Level in Thous., M, SA, 2019-01-08,EMP
+JTS3400JOL,Job Openings: Nondurable Goods Manufacturing, Level in Thous., M, SA, 2019-01-08,EMP
+JTS4000JOL,"Job Openings: Trade, Transportation and Utilities", Level in Thous., M, SA, 2019-01-08,EMP
+JTS4400JOL,Job Openings: Retail Trade, Level in Thous., M, SA, 2019-01-08,EMP
+JTS540099JOL,Job Openings: Professional and Business Services, Level in Thous., M, SA, 2019-01-08,EMP
+JTS6000JOL,Job Openings: Education and Health Services, Level in Thous., M, SA, 2019-01-08,EMP
+JTS6200JOL,Job Openings: Health Care and Social Assistance, Level in Thous., M, SA, 2019-01-08,EMP
+JTS7000JOL,Job Openings: Leisure and Hospitality, Level in Thous., M, SA, 2019-01-08,EMP
+JTS7100JOL,"Job Openings: Arts, Entertainment and Recreation", Level in Thous., M, SA, 2019-01-08,EMP
+JTS7200JOL,Job Openings: Accommodation and Food Services, Level in Thous., M, SA, 2019-01-08,EMP
+JTS9000JOL,Job Openings: Government, Level in Thous., M, SA, 2019-01-08,EMP
+JTS9200JOL,Job Openings: State and Local, Level in Thous., M, SA, 2019-01-08,EMP
+JTSJOL,Job Openings: Total Nonfarm, Level in Thous., M, SA, 2019-01-08,EMP
+CE16OV,Civilian Employment Level, Thous. of Persons, M, SA, 2019-01-04,EMP
+CIVPART,Civilian Labor Force Participation Rate, %, M, SA, 2019-01-04,EMP
+CLF16OV,Civilian Labor Force, Thous. of Persons, M, SA, 2019-01-04,EMP
+EMRATIO,Civilian Employment-Population Ratio, %, M, SA, 2019-01-04,EMP
+LNS12000001,Employment Level: Men, Thous. of Persons, M, SA, 2019-01-04,EMP
+LNS12000002,Employment Level: Women, Thous. of Persons, M, SA, 2019-01-04,EMP
+LNS12000003,Employment Level: White, Thous. of Persons, M, SA, 2019-01-04,EMP
+LNS12000006,Employment Level: Black or African American, Thous. of Persons, M, SA, 2019-01-04,EMP
+LNS12000009,Employment Level: Hispanic or Latino, Thous. of Persons, M, SA, 2019-01-04,EMP
+LNS12000012,Employment Level: 16 to 19 years, Thous. of Persons, M, SA, 2019-01-04,EMP
+LNS12000036,Employment Level: 20 to 24 years, Thous. of Persons, M, SA, 2019-01-04,EMP
+LNS12000089,Employment Level: 25 to 34 years, Thous. of Persons, M, SA, 2019-01-04,EMP
+LNS12000091,Employment Level: 35 to 44 years, Thous. of Persons, M, SA, 2019-01-04,EMP
+LNS12024230,Employment Level: 55 years and over, Thous. of Persons, M, SA, 2019-01-04,EMP
+LNS12027659,"Employment Level: Less than a High School Diploma, 25 years and over", Thous. of Persons, M, SA, 2019-01-04,EMP
+LNS12027660,"Employment Level: High School Graduates, No College, 25 years and over", Thous. of Persons, M, SA, 2019-01-04,EMP
+LNS12027662,"Employment Level: Bachelor's Degree and Higher, 25 years and over", Thous. of Persons, M, SA, 2019-01-04,EMP
+LNS12027689,"Employment Level: Some College or Associate Degree, 25 years and over", Thous. of Persons, M, SA, 2019-01-04,EMP
+LNS12027714,"Employment Level: All industries Self-employed, unincorporated", Thous. of Persons, M, SA, 2019-01-04,EMP
+LNS12032194,"Employment Level: Part-Time for Economic Reasons, All Industries", Thous. of Persons, M, SA, 2019-01-04,EMP
+LNS12034560,Employment Level: Agriculture and Related Industries, Thous. of Persons, M, SA, 2019-01-04,EMP
+LNS12035019,Employment Level: Nonagricultural Industries, Thous. of Persons, M, SA, 2019-01-04,EMP
+NILFWJN,Not in Labor Force: Want a Job Now, Thous. of Persons, M, SA, 2019-01-04,EMP
+U1RATE,"Persons Unemployed 15 weeks or longer, as a percent of the civilian labor force", %, M, SA, 2019-01-04,EMP
+U2RATE,Unemployment Rate: Job Losers, %, M, SA, 2019-01-04,EMP
+UEMP15OV,Number of Civilians Unemployed for 15 Weeks and Over, Thous. of Persons, M, SA, 2019-01-04,EMP
+UEMP15T26,Number of Civilians Unemployed for 15 to 26 Weeks, Thous. of Persons, M, SA, 2019-01-04,EMP
+UEMP27OV,Number of Civilians Unemployed for 27 Weeks and Over, Thous. of Persons, M, SA, 2019-01-04,EMP
+UEMP5TO14,Number of Civilians Unemployed for 5 to 14 Weeks, Thous. of Persons, M, SA, 2019-01-04,EMP
+UEMPLT5,Number of Civilians Unemployed for Less Than 5 Weeks, Thous. of Persons, M, SA, 2019-01-04,EMP
+UEMPMEAN,Average (Mean) Duration of Unemployment, Weeks, M, SA, 2019-01-04,EMP
+UEMPMED,Median Duration of Unemployment, Weeks, M, SA, 2019-01-04,EMP
+UNEMPLOY,Unemployment Level, Thous. of Persons, M, SA, 2019-01-04,EMP
+UNRATE,Civilian Unemployment Rate, %, M, SA, 2019-01-04,EMP
+LNS13000001,Unemployment Level: Men, Thous. of Persons, M, SA, 2019-01-04,EMP
+L\N\S\LNS13000002.csv                   ,Unemployment Level: Women, Thous. of Persons, M, SA, 2019-01-04,EMP
+L\N\S\LNS13000003.csv                   ,Unemployment Level: White, Thous. of Persons, M, SA, 2019-01-04,EMP
+L\N\S\LNS13000006.csv                   ,Unemployment Level: Black or African American, Thous. of Persons, M, SA, 2019-01-04,EMP
+L\N\S\LNS13000009.csv                   ,Unemployment Level: Hispanic or Latino, Thous. of Persons, M, SA, 2019-01-04,EMP
+L\N\S\LNS13000012.csv                   ,Unemployment Level: 16 to 19 years, Thous. of Persons, M, SA, 2019-01-04,EMP
+L\N\S\LNS13000036.csv                   ,Unemployment Level: 20 to 24 years, Thous. of Persons, M, SA, 2019-01-04,EMP
+L\N\S\LNS13000089.csv                   ,Unemployment Level: 25 to 34 years, Thous. of Persons, M, SA, 2019-01-04,EMP
+L\N\S\LNS13000091.csv                   ,Unemployment Level: 35 to 44 years, Thous. of Persons, M, SA, 2019-01-04,EMP
+L\N\S\LNS13000093.csv                   ,Unemployment Level: 45 to 54 years, Thous. of Persons, M, SA, 2019-01-04,EMP
