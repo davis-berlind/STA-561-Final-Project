@@ -700,3 +700,30 @@ ITMOBSM133S,U.S. Imports of Services: Other Business Services, Mil. of $, M, SA,
 ITMTCIM133S,"U.S. Imports of Services: Telecommunications, Computer, and Information Services", Mil. of $, M, SA, 2018-12-11,Trade
 ITMTRAM133S,U.S. Imports of Services: Transport, Mil. of $, M, SA, 2018-12-11,Trade
 ITMTAEM133S,U.S. Imports of Services: Travel (for All Purposes Including Education), Mil. of $, M, SA, 2018-12-11,Trade
+AMINDGS,"Advance Merchant Wholesale Inventories: Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices Sales: Durable Goods Inventories", Mil. of $, M, SA, 2018-11-28,RTS
+AMINNGS,"Advance Merchant Wholesale Inventories: Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices Sales: Nondurable Goods Inventories", Mil. of $, M, SA, 2018-11-28,RTS
+AMINVTS,"Advance Merchant Wholesale Inventories: Total Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices Inventories", Mil. of $, M, SA, 2018-11-28,RTS
+WHLSLRIMSA,Merchant Wholesalers Inventories, Mil. of $, M, SA, 2018-12-14,RTS
+WHLSLRSMSA,Merchant Wholesalers Sales, Mil. of $, M, SA, 2018-12-14,RTS
+I423IMM144SCEN,"Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices Sales: Durable Goods Inventories", Mil. of $, M, SA, 2018-12-07,RTS
+R423IRM163SCEN,"Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices Sales: Durable Goods Inventories/Sales Ratio", Ratio, M, SA, 2018-12-07,RTS
+S423SMM144SCEN,"Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices Sales: Durable Goods Sales", Mil. of $, M, SA, 2018-12-07,RTS
+I4231IM144SCEN,"Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices Sales: Motor Vehicle and Motor Vehicle Parts and Supplies Inventories", Mil. of $, M, SA, 2018-12-07,RTS
+R4231IM163SCEN,"Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices Sales: Motor Vehicle and Motor Vehicle Parts and Supplies Inventories/Sales Ratio", Ratio, M, SA, 2018-12-07,RTS
+S4231SM144SCEN,"Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices Sales: Motor Vehicle and Motor Vehicle Parts and Supplies Sales", Mil. of $, M, SA, 2018-12-07,RTS
+I424IMM144SCEN,"Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices Sales: Nondurable Goods Inventories", Mil. of $, M, SA, 2018-12-07,RTS
+R424IRM163SCEN,"Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices Sales: Nondurable Goods Inventories/Sales Ratio", Ratio, M, SA, 2018-12-07,RTS
+S424SMM144SCEN,"Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices Sales: Nondurable Goods Sales", Mil. of $, M, SA, 2018-12-07,RTS
+WHLSLRIRSA,Merchant Wholesalers: Inventories to Sales Ratio, Ratio, M, SA, 2018-12-14,RTS
+MNFCTRIMSA,Manufacturers Inventories, Mil. of $, M, SA, 2018-12-14,RTS
+MNFCTRSMSA,Manufacturers Sales, Mil. of $, M, SA, 2018-12-14,RTS
+AMTMNO,Value of Manufacturers' New Orders for All Manufacturing Industries, Mil. of $, M, SA, 2018-12-06,RTS
+ATCGNO,Value of Manufacturers' New Orders for Capital Goods Industries, Mil. of $, M, SA, 2018-12-21,RTS
+AMTMVS,Value of Manufacturers' Shipments for All Manufacturing Industries, Mil. of $, M, SA, 2018-12-06,RTS
+AMTMTI,Value of Manufacturers' Total Inventories for All Manufacturing Industries, Mil. of $, M, SA, 2018-12-06,RTS
+AMTMUO,Value of Manufacturers' Unfilled Orders for All Manufacturing Industries, Mil. of $, M, SA, 2018-12-06,RTS
+CMRMT,Real Manufacturing and Trade Industries Sales, Mil. of Chn. 2012 $, M, SA, 2018-12-21,RTS
+MRTSSM44812USS,Retail Sales: Women's Clothing Stores, Mil. of $, M, SA, 2018-12-14,RTS
+RETAILIMSA,Retailers Inventories, Mil. of $, M, SA, 2018-12-14,RTS
+RETAILSMSA,Retailers Sales, Mil. of $, M, SA, 2018-12-14,RTS
+RETAILIRSA,Retailers: Inventories to Sales Ratio, Ratio, M, SA, 2018-12-14,RTS
