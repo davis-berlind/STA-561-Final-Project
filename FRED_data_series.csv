@@ -632,12 +632,71 @@ UEMPMED,Median Duration of Unemployment, Weeks, M, SA, 2019-01-04,EMP
 UNEMPLOY,Unemployment Level, Thous. of Persons, M, SA, 2019-01-04,EMP
 UNRATE,Civilian Unemployment Rate, %, M, SA, 2019-01-04,EMP
 LNS13000001,Unemployment Level: Men, Thous. of Persons, M, SA, 2019-01-04,EMP
-L\N\S\LNS13000002.csv                   ,Unemployment Level: Women, Thous. of Persons, M, SA, 2019-01-04,EMP
-L\N\S\LNS13000003.csv                   ,Unemployment Level: White, Thous. of Persons, M, SA, 2019-01-04,EMP
-L\N\S\LNS13000006.csv                   ,Unemployment Level: Black or African American, Thous. of Persons, M, SA, 2019-01-04,EMP
-L\N\S\LNS13000009.csv                   ,Unemployment Level: Hispanic or Latino, Thous. of Persons, M, SA, 2019-01-04,EMP
-L\N\S\LNS13000012.csv                   ,Unemployment Level: 16 to 19 years, Thous. of Persons, M, SA, 2019-01-04,EMP
-L\N\S\LNS13000036.csv                   ,Unemployment Level: 20 to 24 years, Thous. of Persons, M, SA, 2019-01-04,EMP
-L\N\S\LNS13000089.csv                   ,Unemployment Level: 25 to 34 years, Thous. of Persons, M, SA, 2019-01-04,EMP
-L\N\S\LNS13000091.csv                   ,Unemployment Level: 35 to 44 years, Thous. of Persons, M, SA, 2019-01-04,EMP
-L\N\S\LNS13000093.csv                   ,Unemployment Level: 45 to 54 years, Thous. of Persons, M, SA, 2019-01-04,EMP
+LNS13000002,Unemployment Level: Women, Thous. of Persons, M, SA, 2019-01-04,EMP
+LNS13000003,Unemployment Level: White, Thous. of Persons, M, SA, 2019-01-04,EMP
+LNS13000006,Unemployment Level: Black or African American, Thous. of Persons, M, SA, 2019-01-04,EMP
+LNS13000009,Unemployment Level: Hispanic or Latino, Thous. of Persons, M, SA, 2019-01-04,EMP
+LNS13000012,Unemployment Level: 16 to 19 years, Thous. of Persons, M, SA, 2019-01-04,EMP
+LNS13000036,Unemployment Level: 20 to 24 years, Thous. of Persons, M, SA, 2019-01-04,EMP
+LNS13000089,Unemployment Level: 25 to 34 years, Thous. of Persons, M, SA, 2019-01-04,EMP
+LNS13000091,Unemployment Level: 35 to 44 years, Thous. of Persons, M, SA, 2019-01-04,EMP
+LNS13000093,Unemployment Level: 45 to 54 years, Thous. of Persons, M, SA, 2019-01-04,EMP
+RPI,Real Personal Income, Bil. of Chn. 2012 $, M, SAAR, 2018-12-21,Out
+W875RX1,Real personal income excluding current transfer receipts, Bil. of Chn. 2012 $, M, SAAR, 2018-12-21,Out
+DSPIC96,Real Disposable Personal Income, Bil. of Chn. 2012 $, M, SAAR, 2018-12-21,Out
+W209RC1,"Compensation of employees, received", Bil. of $, M, SAAR, 2018-12-21,Out
+PCEC96,Real Personal Consumption Expenditures, Bil. of Chn. 2012 $, M, SAAR, 2018-12-21,PCE
+DPCCRX1M020SBEA,Real personal consumption expenditures excluding food and energy, Bil. of Chn. 2012 $, M, SAAR, 2018-12-21,PCE
+PCEDGC96,Real Personal Consumption Expenditures: Durable Goods, Bil. of Chn. 2012 $, M, SAAR, 2018-12-21,PCE
+DNRGRX1M020SBEA,Real personal consumption expenditures: Energy goods and services, Bil. of Chn. 2012 $, M, SAAR, 2018-12-21,PCE
+DFXARX1M020SBEA,Real personal consumption expenditures: Food, Bil. of Chn. 2012 $, M, SAAR, 2018-12-21,PCE
+DGDSRX1,Real Personal Consumption Expenditures: Goods, Bil. of Chn. 2012 $, M, SAAR, 2018-12-21,PCE
+DPCMRX1M020SBEA,Real personal consumption expenditures: Market-based, Bil. of Chn. 2012 $, M, SAAR, 2018-12-21,PCE
+DPCXRX1M020SBEA,Real personal consumption expenditures: Market-based PCE excluding food and energy, Bil. of Chn. 2012 $, M, SAAR, 2018-12-21,PCE
+PCENDC96,Real Personal Consumption Expenditures: Nondurable Goods, Bil. of Chn. 2012 $, M, SAAR, 2018-12-21,PCE
+PCESC96,Real Personal Consumption Expenditures: Services, Bil. of Chn. 2012 $, M, SAAR, 2018-12-21,PCE
+UMCSENT, University of Michigan: Consumer Sentiment,Index 1966:Q1=100,M,NSA, 2018-03-29,Oth
+AITGCBS,Advance U.S. International Trade in Goods: Balance, Mil. of $, M, SA, 2018-11-28,Trade
+AITGEXS,Advance U.S. International Trade in Goods: Exports, Mil. of $, M, SA, 2018-11-28,Trade
+AITGEAS,"Advance U.S. International Trade in Goods: Exports: Automotive Vehicles, etc.", Mil. of $, M, SA, 2018-11-28,Trade
+AITGECS,Advance U.S. International Trade in Goods: Exports: Capital Goods, Mil. of $, M, SA, 2018-11-28,Trade
+AITGEGS,Advance U.S. International Trade in Goods: Exports: Consumer Goods, Mil. of $, M, SA, 2018-11-28,Trade
+AITGEFS,"Advance U.S. International Trade in Goods: Exports: Foods, Feeds, & Beverages", Mil. of $, M, SA, 2018-11-28,Trade
+AITGEIS,Advance U.S. International Trade in Goods: Exports: Industrial Supplies, Mil. of $, M, SA, 2018-11-28,Trade
+AITGEOS,Advance U.S. International Trade in Goods: Exports: Other Goods, Mil. of $, M, SA, 2018-11-28,Trade
+AITGIXS,Advance U.S. International Trade in Goods: Imports, Mil. of $, M, SA, 2018-11-28,Trade
+AITGIAS,"Advance U.S. International Trade in Goods: Imports: Automotive Vehicles, etc.", Mil. of $, M, SA, 2018-11-28,Trade
+AITGICS,Advance U.S. International Trade in Goods: Imports: Capital Goods, Mil. of $, M, SA, 2018-11-28,Trade
+AITGIGS,Advance U.S. International Trade in Goods: Imports: Consumer Goods, Mil. of $, M, SA, 2018-11-28,Trade
+AITGIFS,"Advance U.S. International Trade in Goods: Imports: Foods, Feeds, & Beverages", Mil. of $, M, SA, 2018-11-28,Trade
+AITGIIS,Advance U.S. International Trade in Goods: Imports: Industrial Supplies, Mil. of $, M, SA, 2018-11-28,Trade
+AITGIOS,Advance U.S. International Trade in Goods: Imports: Other Goods, Mil. of $, M, SA, 2018-11-28,Trade
+BOPTEXP,"Exports of Goods and Services, Balance of Payments Basis", Mil. of $, M, SA, 2018-12-11,Trade
+BOPGEXP,"Exports of Goods, Balance of Payments Basis", Mil. of $, M, SA, 2018-12-11,Trade
+BOPSEXP,"Exports of Services, Balance of Payments Basis", Mil. of $, M, SA, 2018-12-11,Trade
+BOPTIMP,Imports of Goods and Services: Balance of Payments Basis, Mil. of $, M, SA, 2018-12-11,Trade
+BOPGIMP,Imports of Goods: Balance of Payments Basis, Mil. of $, M, SA, 2018-12-11,Trade
+BOPSIMP,"Imports of Services, Balance of Payments Basis", Mil. of $, M, SA, 2018-12-11,Trade
+BOPGSTB,"Trade Balance: Goods and Services, Balance of Payments Basis", Mil. of $, M, SA, 2018-12-11,Trade
+BOPGTB,"Trade Balance: Goods, Balance of Payments Basis", Mil. of $, M, SA, 2018-12-11,Trade
+BOPSTB,"Trade Balance: Services, Balance of Payments Basis", Mil. of $, M, SA, 2018-12-11,Trade
+BOXVMPM133S,U.S. Exports of Services - Passenger Fares, Mil. of $, M, SA, 2017-11-03,Trade
+BOXTVLM133S,U.S. Exports of Services - Travel, Mil. of $, M, SA, 2017-11-03,Trade
+ITXCIPM133S,"U.S. Exports of Services: Charges for the Use of Intellectual Property, not included elsewhere", Mil. of $, M, SA, 2018-12-11,Trade
+ITXFISM133S,U.S. Exports of Services: Financial Services, Mil. of $, M, SA, 2018-12-11,Trade
+ITXGGSM133S,"U.S. Exports of Services: Government Goods and Services, not included elsewhere", Mil. of $, M, SA, 2018-12-11,Trade
+ITXINSM133S,U.S. Exports of Services: Insurance Services, Mil. of $, M, SA, 2018-12-11,Trade
+ITXMARM133S,"U.S. Exports of Services: Maintenance and Repair Services, not included elsewhere", Mil. of $, M, SA, 2018-12-11,Trade
+ITXOBSM133S,U.S. Exports of Services: Other Business Services, Mil. of $, M, SA, 2018-12-11,Trade
+ITXTCIM133S,"U.S. Exports of Services: Telecommunications, Computer, and Information Services", Mil. of $, M, SA, 2018-12-11,Trade
+ITXTRAM133S,U.S. Exports of Services: Transport, Mil. of $, M, SA, 2018-12-11,Trade
+ITXTAEM133S,U.S. Exports of Services: Travel (for All Purposes Including Education), Mil. of $, M, SA, 2018-12-11,Trade
+ITMCIPM133S,"U.S. Imports of Services: Charges for the Use of Intellectual Property, not included elsewhere", Mil. of $, M, SA, 2018-12-11,Trade
+ITMFISM133S,U.S. Imports of Services: Financial Services, Mil. of $, M, SA, 2018-12-11,Trade
+ITMGGSM133S,"U.S. Imports of Services: Government Goods and Services, not included elsewhere", Mil. of $, M, SA, 2018-12-11,Trade
+ITMINSM133S,U.S. Imports of Services: Insurance Services, Mil. of $, M, SA, 2018-12-11,Trade
+ITMMARM133S,"U.S. Imports of Services: Maintenance and Repair Services, not included elsewhere", Mil. of $, M, SA, 2018-12-11,Trade
+ITMOBSM133S,U.S. Imports of Services: Other Business Services, Mil. of $, M, SA, 2018-12-11,Trade
+ITMTCIM133S,"U.S. Imports of Services: Telecommunications, Computer, and Information Services", Mil. of $, M, SA, 2018-12-11,Trade
+ITMTRAM133S,U.S. Imports of Services: Transport, Mil. of $, M, SA, 2018-12-11,Trade
+ITMTAEM133S,U.S. Imports of Services: Travel (for All Purposes Including Education), Mil. of $, M, SA, 2018-12-11,Trade
