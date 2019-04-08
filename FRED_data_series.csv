@@ -907,7 +907,6 @@ M1ADJ,M1 Adjusted for Retail Sweeps,Bil. of $,M,SA,1/17/2014,Mon,0
 M1REAL,Real M1 Money Stock,Bil. of 1982-84 $,M,SA,1/11/2019,Mon,0
 M2,M2 Money Stock,Bil. of $,W,SA,1/10/2019,Mon,0
 M2REAL,Real M2 Money Stock,Bil. of 1982-84 $,M,SA,1/11/2019,Mon,0
-MEIM683SFRBCHI,Chicago Fed Midwest Economy Index,Index Standard Deviation,M,SA,12/31/2018,Mon,0
 MSIALLA,Monetary Services Index: ALL Assets (alternative),Bil. of $,M,SA,1/17/2014,Mon,0
 MSIALLP,Monetary Services Index: ALL Assets (preferred),Bil. of $,M,SA,1/17/2014,Mon,0
 MSIM1A,Monetary Services Index: M1 (alternative),Bil. of $,M,SA,1/17/2014,Mon,0
@@ -926,7 +925,6 @@ NONREVSLAR,Total Nonrevolving Consumer Credit Owned and Securitized,% Chg. at An
 OTHSEC,Other Securities at All Commercial Banks,Bil. of U.S. $,M,SA,1/11/2019,Mon,0
 REALLN,"Real Estate Loans, All Commercial Banks",Bil. of U.S. $,M,SA,1/11/2019,Mon,0
 REVOLSLAR,Total Revolving Consumer Credit Owned and Securitized,% Chg. at Annual Rate,M,SAAR,1/8/2019,Mon,1
-RMEIM683SFRBCHI,Chicago Fed Relative Midwest Economy Index,Index Standard Deviation,M,SA,12/31/2018,Mon,0
 SAVINGS,Total Savings Deposits at all Depository Institutions,Bil. of $,W,SA,1/10/2019,Mon,0
 STDTI,Small Time Deposits at Thrift Institutions,Bil. of $,M,SA,1/10/2019,Mon,0
 SVGTI,Savings Deposits at Thrift Institutions,Bil. of $,M,SA,1/10/2019,Mon,0
