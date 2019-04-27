@@ -18,12 +18,14 @@ class DataGetter:
     # determines whether the data series will be included. Defaults to true.
     include = True
     
-    def __init__(self, code, dates, method, params):
+    def __init__(self, code, dates, method, params, key):
+        self.fr = Fred(api_key = key, response_type = 'df')
         self.code = code
         self.dates = dates
         self.method = method
         self.params = params
-        self.start = fr.series.details(code).observation_start[0]
+        self.start = ''
+        self.key = key
 
     def levelShrink(self, dates, series):
         """ 
@@ -86,14 +88,14 @@ class DataGetter:
         Returns:
             Pandas Series of percent changes for self.code at same frequency as self.dates
         """
-        # get data from FRED API for self.code
-        series = fr.series.observations(self.code, params = self.params)
+        self.start = self.fr.series.details(self.code).observation_start[0]
+        series = self.fr.series.observations(self.code, params = self.params)
         
         # drop NAs in high frequency data
         series.dropna(axis = 0, inplace = True)
         
         # aggregate data and calculate percent changes
-        if (method):
+        if (self.method):
             series = self.percentShrink(self.dates, series)
         else:
             series = pd.DataFrame({'date' : series.date[1:], 'value': growthRate(series.value)})

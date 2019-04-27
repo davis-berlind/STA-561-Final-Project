@@ -12,12 +12,15 @@ from FredDataGetter import DataGetter
 
 ## Getting Data from FRED ##
 
+# loading keys
+fseries = pd.read_csv('FRED_data_series.csv')
+
 # Intialize Fred object for communicating with FRED API
 fr = Fred(api_key = key, response_type = 'df')
 
 # Setting data start and end dates
 start = datetime(1990, 1, 1)
-end = datetime(2019, 4, 1)
+end = datetime(2018, 10, 2)
 
 params = {'observation_start': start.strftime('%Y-%m-%d'),
           'observation_end': end.strftime('%Y-%m-%d')}
@@ -26,9 +29,11 @@ params = {'observation_start': start.strftime('%Y-%m-%d'),
 gdp = fr.series.observations("GDPC1", params = params)
 gdp.drop(labels = ['realtime_end', 'realtime_start'], axis = 1, inplace = True)
 gdp.rename(columns = {'value' : 'gdp'}, inplace = True)
+gdp.loc[1:, 'gdp'] = growthRate(gdp.gdp)
+gdp = gdp.iloc[1:,:]
 
 # Output GDP 
-gdp.to_csv('gdp_growth.csv')
+gdp.to_csv('gdp_growth.csv', index = False)
 
 # Retrieving data from Fred
 
@@ -42,11 +47,11 @@ dates = gdp.date
 data = pd.DataFrame({'date' : dates[1:]})
 
 # loop through and collect data for each code in fseries
-for i in range(n):
+for i in range(657,n):
     code = fseries.loc[i, 'file']
     method = fseries.loc[i, 'method']
     
-    dg = DataGetter(code, dates, method, params)
+    dg = DataGetter(code, dates, method, params, key)
     series = dg.getter()
     
     # only include series that start before specified start date and are "complete"
@@ -72,4 +77,4 @@ lag2 = {'observation_start': "1989-07-01",
 data['GDPLAG1'] = growthRate(fr.series.observations('GDPC1', params = lag1).value)
 data['GDPLAG2'] = growthRate(fr.series.observations('GDPC1', params = lag2).value)
 
-data.to_csv('data.csv')
+data.to_csv('data.csv', index = False)

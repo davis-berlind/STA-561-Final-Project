@@ -1,3 +1,5 @@
+import numpy as np
+
 def quarterMean(series, dates):
 	"""
 	Converts data at higher than quarterly frequency to quarterly data by
@@ -10,12 +12,13 @@ def quarterMean(series, dates):
 	Returns:
 		size n-1 list of within quarterly averages
 	"""
-    ret = []
-    for start, end in zip(dates[:-1], dates[1:]):
-        batch = series.loc[(series.date >= start) & (series.date < end), 'value']
-        shrink = np.mean(batch)
-        ret.append(shrink)
-    return ret
+
+	ret = []
+	for start, end in zip(dates[:-1], dates[1:]):
+		batch = series.loc[(series.date >= start) & (series.date < end), 'value']
+		shrink = np.mean(batch)
+		ret.append(shrink)
+		return ret
 
 def growthRate(series):
 	"""
@@ -27,4 +30,5 @@ def growthRate(series):
 	Returns:
 		length n-1 numpy array of growth rates
 	"""
-    return np.exp(np.diff(np.log(series))) - 1
+	
+	return np.exp(np.diff(np.log(series))) - 1
